@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Content Digest</title>
+<meta name="description" content="Bite-sized news digests with audio. Skim it, listen to it, search it.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <button id="menu-btn" class="icon-btn" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">
+    <span class="bars" aria-hidden="true"></span>
+  </button>
+  <a class="brand" href="#/latest"><span aria-hidden="true">📰</span> Content Digest</a>
+</header>
+
+<div id="scrim" class="scrim" hidden></div>
+
+<nav id="sidebar" class="sidebar" aria-label="Main">
+  <a class="brand big" href="#/latest"><span aria-hidden="true">📰</span> Content Digest</a>
+  <ul>
+    <li><a href="#/latest" data-nav="latest"><span class="ni" aria-hidden="true">⚡</span> Latest</a></li>
+    <li><a href="#/archive" data-nav="archive"><span class="ni" aria-hidden="true">🗂️</span> Archive</a></li>
+    <li><a href="#/search" data-nav="search"><span class="ni" aria-hidden="true">🔎</span> Search</a></li>
+    <li><a href="#/about" data-nav="about"><span class="ni" aria-hidden="true">💡</span> About</a></li>
+  </ul>
+</nav>
+
+<main id="main" class="main" tabindex="-1">
+  <div id="app" aria-live="polite"></div>
+  <noscript><p class="card pad">This site needs JavaScript to show the digests.</p></noscript>
+</main>
+
+<div id="player" class="player" role="region" aria-label="Audio player" hidden>
+  <audio id="audio" preload="metadata"></audio>
+  <div class="player-row">
+    <button id="p-play" class="play-btn" aria-label="Play">▶</button>
+    <button id="p-back" class="icon-btn small" aria-label="Back 15 seconds">⏪ <span class="sm">15</span></button>
+    <button id="p-fwd" class="icon-btn small" aria-label="Forward 15 seconds"><span class="sm">15</span> ⏩</button>
+    <div class="seek-wrap">
+      <input id="p-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
+      <div class="times"><span id="p-cur">0:00</span><span id="p-dur">0:00</span></div>
+    </div>
+    <label class="sel"><span class="sel-l">Speed</span>
+      <select id="p-speed" aria-label="Playback speed">
+        <option value="1">1x</option>
+        <option value="1.15">1.15x</option>
+        <option value="1.25">1.25x</option>
+        <option value="1.35">1.35x</option>
+        <option value="1.5">1.5x</option>
+        <option value="1.75">1.75x</option>
+        <option value="2">2x</option>
+      </select>
+    </label>
+    <label class="sel voice"><span class="sel-l">Voice</span>
+      <select id="p-voice" aria-label="Voice">
+        <option value="william">William (Australian)</option>
+        <option value="ryan">Ryan (British)</option>
+        <option value="alba">Alba (Scottish)</option>
+      </select>
+    </label>
+  </div>
+  <div id="p-msg" class="p-msg" role="status"></div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,948 @@
+[
+ {
+  "id": "drop-001",
+  "title": "Drop #1: Jan 18 to 31, 2026",
+  "start": "2026-01-18",
+  "end": "2026-01-31",
+  "intro": "Two weeks of headlines, boiled down. Greenland tariff threats whipsawed markets, gold blew past $5,000, TikTok went American and then got messy, and Trump named Kevin Warsh as the next Fed chair.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "85",
+   "label": "Seconds to midnight",
+   "detail": "The Doomsday Clock has never been this close."
+  },
+  "note": "Twelve issues in this drop. Issues for Jan 25 and Jan 26 were not available.",
+  "audio": {
+   "william": "audio/drop-001-william.mp3",
+   "ryan": "audio/drop-001-ryan.mp3",
+   "alba": "audio/drop-001-alba.mp3"
+  },
+  "issues": [
+   {
+    "id": "2026-01-18",
+    "label": "Issue of Jan 18",
+    "weekday": "Sun",
+    "top": "Watches are having their finest hour",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: watches, from the White Rabbit's pocketwatch to James Bond's Omega."
+       }
+      ]
+     },
+     {
+      "icon": "⌚",
+      "name": "Sunday Theme: Watches",
+      "bullets": [
+       {
+        "h": "Watches are in their finest hour",
+        "t": "Gen Z is shopping secondhand and following watch influencers. The used-watch market hit $27 billion in 2023, and only a few models, like the Rolex Daytona and GMT, still trade at a big premium."
+       },
+       {
+        "h": "Trends that make your wrist stand out",
+        "t": "Odd shapes (a padlock, a bathroom scale, a panther), retro vintage pieces, sustainable materials, and bold colors like avocado and candy pink."
+       },
+       {
+        "h": "Is watchmaking the next hot career?",
+        "t": "Only nine full-time watchmaking schools remain in the US. Rolex runs a tuition-free 18-month program with a $1,800 monthly stipend."
+       },
+       {
+        "h": "Microbrands' time to shine",
+        "t": "Rolex retail prices jumped 18% in two years, while microbrands like Baltic, Serica, and Formex price in the hundreds and low thousands. The microbrand market is expected to grow 25% in five years."
+       },
+       {
+        "h": "The race to put a doctor on your wrist",
+        "t": "Smartwatches have pivoted from step counting to health. Apple added an ECG, then sleep apnea and hypertension alerts. Blood sugar is the next frontier, but no smartwatch can measure it yet. And no federal law stops wearable makers from selling your data."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-19",
+    "label": "Issue of Jan 19",
+    "weekday": "Mon",
+    "top": "Trump announces new tariffs over Greenland rift",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's MLK Day, the only federal holiday that's also a National Day of Service. US markets were closed."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Trump announces new tariffs over Greenland rift",
+        "t": "A 10% tariff on eight European countries is set for Feb. 1, and the EU is weighing up to $108 billion in retaliation."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "At least 21 killed in Spain train collision",
+        "t": "A high-speed passenger train went off the rails near Córdoba and hit a train coming the other way."
+       },
+       {
+        "h": "Gaza Board of Peace plan floats $1 billion membership",
+        "t": "Member states would serve three-year terms, or pay $1 billion in year one for a permanent seat."
+       },
+       {
+        "h": "K-food is booming around the world",
+        "t": "Korean food exports hit a record $13.6 billion in 2025, and instant noodles jumped nearly 22%."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "College football knows how to protect the pocket",
+        "t": "Top-division program values are up 46% since last year, and some teams are worth over $1.5 billion. NCAA rule changes allow free transfers and let schools pay athletes up to $20.5 million a year. Indiana's value jumped nearly 68%."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "20%: how much smaller wedding parties are than in 2019",
+        "t": "About eight people now versus ten. One writer says seven years of bridesmaid duty cost her nearly $20,000."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Foment",
+        "t": "Means 'to promote.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-20",
+    "label": "Issue of Jan 20",
+    "weekday": "Tue",
+    "top": "Trump says he'll sue JPMorgan over 'debanking'",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Matt Damon says Netflix wants a big action scene in the first five minutes and the plot repeated three or four times so doomscrollers don't get lost."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Trump says he'll sue JPMorgan over 'debanking'",
+        "t": "He said he'd sue within two weeks. JPMorgan says it doesn't close accounts over political beliefs."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump links Greenland push to not winning the Nobel Prize",
+        "t": "In a message to Norway's prime minister he said he no longer felt an obligation to think purely of peace."
+       },
+       {
+        "h": "China's birthrate falls to its lowest since 1949",
+        "t": "5.63 births per 1,000 people, and the population fell for a fourth straight year."
+       },
+       {
+        "h": "Fashion designer Valentino dies at 93",
+        "t": "The Italian designer behind 'Valentino red' launched his house in 1959."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Prince Harry puts the Daily Mail on trial",
+        "t": "Harry, Elton John, and Elizabeth Hurley accuse the paper's publisher of unlawful information gathering. The trial runs about nine weeks."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "A mini Sphere is headed to Washington",
+        "t": "Planned for National Harbor, MD: 6,000 seats, about a third the size of Vegas, at $1 billion or more to build."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "23%: expected jump in data center construction spending this year",
+        "t": "Offices, hotels, and warehouses are falling. Data centers would be over 6% of non-residential construction, up from 2% in 2023. The only limit may be finding enough workers."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Fortnight",
+        "t": "Means 'a period of two weeks.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-21",
+    "label": "Issue of Jan 21",
+    "weekday": "Wed",
+    "top": "Investors are officially afraid again",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Good news: the sun sets at 5pm in New York tonight, and the next pre-5pm sunset isn't until November."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Investors are officially afraid again",
+        "t": "Renewed tariff threats sparked a 'sell America' move. The Dow fell nearly 900 points, and the S&P 500 had its worst day since October."
+       },
+       {
+        "h": "Trump's Federal Reserve showdown is today",
+        "t": "The Supreme Court hears his bid to fire Fed Gov. Lisa Cook. No president has ever removed a Fed governor."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Europe pushes back on Greenland threats",
+        "t": "Macron at Davos: 'We prefer respect over bullies.'"
+       },
+       {
+        "h": "Netflix upgrades its Warner Bros. Discovery offer to all cash",
+        "t": "The offer is $82.7 billion, and Netflix also reported 325 million subscribers."
+       },
+       {
+        "h": "The Supreme Court did not rule on Trump's tariffs",
+        "t": "No ruling yet. The next possible date is Feb. 20."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Davos can't stop talking about AI",
+        "t": "The CEOs of Anthropic and Google DeepMind both expect AI to come for junior-level jobs. Satya Nadella said energy costs will decide the winner of the AI race, and Hassabis put Chinese AI about six months behind the West."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "750: UK chimney sweeps association members, up from about 590 in 2021",
+        "t": "Energy prices are pushing Londoners back to wood stoves. Today's sweeps use CCTV instead of little boys."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Dickensian",
+        "t": "Relating to living or working conditions below an acceptable standard, like in a Dickens novel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-22",
+    "label": "Issue of Jan 22",
+    "weekday": "Thu",
+    "top": "Trump says Greenland deal is coming, tariffs off",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Razzie nominations are out, and the seven artificial dwarfs from Snow White are up for worst supporting actor."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "SCOTUS seems poised to let Lisa Cook stay at the Fed",
+        "t": "Justices across the spectrum worried that firing her would weaken the central bank's independence."
+       },
+       {
+        "h": "Jamie Dimon calls Trump's card fee cap an 'economic disaster'",
+        "t": "He said a 10% cap would force a drastic reduction in credit cards."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump says Greenland deal is coming, tariffs off",
+        "t": "He announced a 'framework' with NATO's Mark Rutte and dropped the promised tariffs, and markets rallied."
+       },
+       {
+        "h": "A massive winter storm is coming",
+        "t": "Severe weather is expected to hit more than 200 million Americans across 2,000 miles from Friday."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Curtains come down on Sundance in Utah",
+        "t": "After four decades in Park City, the festival moves to Boulder, CO next year. Boulder won with $34 million in tax credits over 10 years."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "11.2 billion: times the NYT's games were played last year",
+        "t": "It just launched Crossplay, its first multiplayer game. Subscribers hit 12.33 million."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Dormant",
+        "t": "Means 'temporarily inactive.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-23",
+    "label": "Issue of Jan 23",
+    "weekday": "Fri",
+    "top": "Apple and OpenAI vie for AI gadgets",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A huge winter storm is on the way from New Mexico to the East Coast, and airlines are already waiving change fees."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Trump sues JPMorgan and Jamie Dimon over 'debanking'",
+        "t": "A $5 billion suit filed in Florida state court. JPMorgan says it has no merit."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Jack Smith testifies publicly about his Trump investigations",
+        "t": "He told the House Judiciary Committee 'no one should be above the law.'"
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Free Solo, but live, comes to Netflix",
+        "t": "Alex Honnold plans to climb the 1,667-foot Taipei 101 with no ropes. Weather pushed it back 24 hours."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple and OpenAI vie for AI gadgets",
+        "t": "Apple may be building an AirTag-sized AI pin with cameras and microphones, possibly out by 2027. OpenAI says it is on track to show its first device in the second half of this year, built with Jony Ive and rumored to be screenless."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "A Japanese toilet maker is an AI company now",
+        "t": "Toto's stock jumped 11% after Goldman flagged its side business: chipmaking equipment that was 42% of operating income last year."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "16: Oscar nominations for Sinners, a record",
+        "t": "It beat the old record of 14. One Battle After Another is still the favorite for best picture."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Harangued",
+        "t": "Means 'lectured someone in an aggressive and critical manner.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-24",
+    "label": "Issue of Jan 24",
+    "weekday": "Sat",
+    "top": "TikTok goes American",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's National Compliment Day. Beware the 'compliminsult,' like being told 'that's actually funny.'"
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Gold hits a record near $5,000 an ounce",
+        "t": "Gold is up 8% on the week and 15% since Jan. 1. Silver topped $100 an ounce for the first time."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Baby, it's cold outside",
+        "t": "At least 18 states and DC declared emergencies, and 8,300 flights were canceled for the weekend."
+       },
+       {
+        "h": "US, Russia, and Ukraine hold first trilateral peace talks",
+        "t": "Held in the UAE, they are the first direct Russia-Ukraine talks since the 2022 invasion."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "TikTok goes American",
+        "t": "A $14 billion deal closed Thursday night. ByteDance keeps 19.9%, and Oracle, Silver Lake, and MGX split 45%. The app won't change much at first, but the new terms collect your precise location."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Former sideline reporter Michele Tafoya is running for Senate in Minnesota"
+       },
+       {
+        "h": "A conspiracy theory says Earth loses gravity for seven seconds on Aug. 12",
+        "t": "NASA says it won't."
+       },
+       {
+        "h": "Three Norwegian ski jumpers were suspended 18 months",
+        "t": "They enlarged the crotches of their suits."
+       },
+       {
+        "h": "A cargo ship spill covered an English beach in raw french fries and onions"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Atrocious",
+        "t": "Means 'of a very poor quality; extremely bad or unpleasant.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-27",
+    "label": "Issue of Jan 27",
+    "weekday": "Tue",
+    "top": "Social media is lowkey on trial",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's National Plan a Vacation Day, and research says planning a trip boosts happiness more than taking one."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Gold shatters its $5,000 record as investors seek safety",
+        "t": "Gold briefly topped $5,100 and is up more than 80% in 12 months."
+       },
+       {
+        "h": "Michael Burry says he's buying GameStop",
+        "t": "Last week GameStop's CEO bought 500,000 shares for about $21.5 million."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Saudi mega-development Neom will be scaled back",
+        "t": "The $1.5 trillion project is being downsized. The Line, a planned self-sustaining city, could become a data center hub."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Social media is lowkey on trial",
+        "t": "Jury selection began in Los Angeles in a landmark case accusing Meta, TikTok, and YouTube of causing social media addiction in kids. Snap settled, and 5,000+ similar lawsuits are pending. A WSJ poll found 71% support banning most social media for under-16s."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$3.75: price of the new California Post print edition",
+        "t": "Rupert Murdoch's newest tabloid launched with a newsroom of about 80 to 100. Its first front page: 'Oscar Wild.'"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Unwieldy",
+        "t": "Means 'difficult to manage.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-28",
+    "label": "Issue of Jan 28",
+    "weekday": "Wed",
+    "top": "EU and India clinch 'the mother of all deals'",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A $100 million gift means every US Olympian and Paralympian gets $200,000, so the last-place curler in Milan earns the same as the top hockey scorer."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "US consumer confidence falls to its lowest since 2014",
+        "t": "The Conference Board's gauge dropped to 84.5, with gas and grocery costs the most-cited worries."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "EU and India clinch 'the mother of all deals'",
+        "t": "After about 20 years of talks, the deal cuts or removes duties on 90% of the $136 billion in goods traded. India will slash tariffs on European cars from as high as 110% to as low as 10%."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Early issues for TikTok US",
+        "t": "In the first five days after the deal closed, app deletions climbed 150%. Users reacted to a new privacy pop-up and reports of blocked videos. TikTok blamed a data center outage, and California's governor announced a probe."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Pinterest lays off 15% of employees to pivot to AI",
+        "t": "About 675 of its 4,500 workers are out. AI was cited for nearly 55,000 US layoffs last year."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "85 seconds: the Doomsday Clock's distance from midnight",
+        "t": "The closest it has ever been. The Bulletin's chair says AI is supercharging misinformation."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Nigh",
+        "t": "Means 'near.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-29",
+    "label": "Issue of Jan 29",
+    "weekday": "Thu",
+    "top": "Fed holds steady in first rate decision of the year",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Southwest has scrapped its 54-year-old open seating policy. Future generations will never know the pain of the back-row middle seat."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Fed holds steady in its first rate decision of the year",
+        "t": "Rates stay at 3.5% to 3.75%, the first pause since July after three cuts. Waller and Miran dissented in favor of a cut."
+       },
+       {
+        "h": "Amazon lays off 16,000 employees",
+        "t": "That's 30,000 corporate jobs cut since October, about 10% of its white-collar workforce."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump warns Iran its 'time is running out' for a nuclear deal",
+        "t": "He said a massive armada is headed toward Iran."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Tesla has its first annual revenue drop",
+        "t": "Revenue slipped 3% to $94.8 billion and Q4 profit fell 61%. Tesla plans to invest $2 billion in xAI and stop making the Model S and Model X to build Optimus robots."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Revenue and AI spending grow at Meta and Microsoft",
+        "t": "Meta posted record Q4 sales of $59.9 billion and plans up to $135 billion in 2026 capital spending, and its stock rose. Microsoft's capex is up 66%, and its stock fell."
+       },
+       {
+        "h": "The risky AI assistant clawing its way to viral fame",
+        "t": "Moltbot, an open-source assistant built on Claude, is blowing up on GitHub. It runs on your own machine, which leaves you open to prompt injection attacks, so run it on a separate computer."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "4%: Starbucks US same-store sales growth, the first rise since 2023",
+        "t": "Revenue rose 5% to $9.9 billion, but profit fell more than 60%."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Forage",
+        "t": "Means 'to wander in search of food.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-30",
+    "label": "Issue of Jan 30",
+    "weekday": "Fri",
+    "top": "Why the value of the US dollar is shedding cents",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's a winter Friday: skip the gym, watch a bad Fast & Furious movie, and Google 'Bahamas wi-fi good?' at 2am."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Why the US dollar is shedding cents",
+        "t": "Down 2% this year and almost 11% over the past year. Gold and the Swiss franc are surging at the same time, a sign the dollar may be losing its safe-haven status."
+       },
+       {
+        "h": "Trump says he'll name his Fed Chair pick this morning",
+        "t": "Former Fed Gov. Kevin Warsh was a 95% favorite on Polymarket."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Melania set to lose a lot of money at the box office",
+        "t": "The documentary is expected to earn about $3 million opening weekend against $75 million Amazon spent."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple revenue soars on 'staggering' iPhone demand",
+        "t": "Revenue grew 16% to about $144 billion, and Tim Cook said 2.5 billion Apple devices are now in use."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Why the market is punishing Microsoft but not Meta",
+        "t": "Microsoft fell nearly 10%, erasing $350+ billion, while Meta climbed 10%. Nearly half of Microsoft's contracted future revenue depends on OpenAI."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$10 million: top price for a 30-second Super Bowl ad",
+        "t": "The average is $8 million, and nearly 40% of advertisers are new this year."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Beaucoup",
+        "t": "French for 'a lot.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-01-31",
+    "label": "Issue of Jan 31",
+    "weekday": "Sat",
+    "top": "We have a Fed chair nominee",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sony is making four Beatles movies, one from each band member's perspective, and they won't hit theaters until April 2028."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "We have a Fed chair nominee",
+        "t": "Trump nominated former Fed Gov. Kevin Warsh to replace Powell. Gold dropped as much as 12% and silver as much as 36% while the dollar soared."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The DOJ released 3+ million pages of Epstein documents",
+        "t": "The final release includes more than 3 million pages, 2,000 videos, and 180,000 images."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Actress Catherine O'Hara has died at age 71",
+        "t": "Known for Schitt's Creek, Home Alone, and Beetlejuice."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Musk may combine his companies",
+        "t": "Reuters says Musk may merge SpaceX with xAI, and Bloomberg says he may merge it with Tesla instead. SpaceX is heading toward a record $50 billion IPO as early as June."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Neil Young gave Greenland residents a year of his music and films"
+       },
+       {
+        "h": "Bryan Johnson picked a fight with the AG1 supplement over its clinical trial"
+       },
+       {
+        "h": "Bridgit Mendler's satellite startup landed a $50 million government contract"
+       },
+       {
+        "h": "Facebook conspiracy theorists claim a 'Leviathan is waking up near Virginia'",
+        "t": "The screenshot was doctored."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Terraforming",
+        "t": "Means 'transforming a planet so it is suitable for human life.'"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

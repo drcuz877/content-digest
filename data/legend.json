@@ -1,0 +1,18 @@
+[
+ {"icon":"📝","name":"Editor's Note","desc":"The one-line opener for the day."},
+ {"icon":"💰","name":"Finance","desc":"Money, business, and the economy."},
+ {"icon":"🌍","name":"World","desc":"Big stories from around the globe."},
+ {"icon":"📺","name":"Media","desc":"News about news, streaming, and social platforms."},
+ {"icon":"🎬","name":"Entertainment","desc":"Movies, music, and culture."},
+ {"icon":"🏈","name":"Sports","desc":"Scores, deals, and the business of sport."},
+ {"icon":"💻","name":"Tech","desc":"Gadgets, apps, and the companies behind them."},
+ {"icon":"🤖","name":"AI","desc":"Artificial intelligence news."},
+ {"icon":"🔢","name":"Stats","desc":"One number that tells a story."},
+ {"icon":"📖","name":"Word of the Day","desc":"A word worth knowing."},
+ {"icon":"👀","name":"ICYMI","desc":"Odd and fun stories you may have missed."},
+ {"icon":"⌚","name":"Sunday Theme","desc":"The Sunday deep dive on a single topic."},
+ {"icon":"🏟️","name":"Dave's Sports Desk","desc":"Named column: sports with attitude."},
+ {"icon":"🌟","name":"Brendan's Got Good News","desc":"Named column: a feel-good story."},
+ {"icon":"⚖️","name":"Matty's Work-Life Balance","desc":"Named column: work and life tips."},
+ {"icon":"🌐","name":"Molly Explains the Internet","desc":"Named column: what is happening online."}
+]
