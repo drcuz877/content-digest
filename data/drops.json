@@ -1,5 +1,1155 @@
 [
  {
+  "id": "drop-002",
+  "title": "Drop #2: Feb 1 to 14, 2026",
+  "start": "2026-02-01",
+  "end": "2026-02-14",
+  "intro": "Two more weeks, boiled down. Big Tech's AI spending plans topped $650 billion, bitcoin sank below $70,000, Disney picked a new CEO, and the Seahawks won Super Bowl LX.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "60",
+   "label": "Super Bowls attended",
+   "detail": "Three lifelong fans have been to every single one, since 1967 when a ticket cost $12."
+  },
+  "note": "Fourteen issues in this drop, one for every day.",
+  "audio": {
+   "william": "audio/drop-002-william.mp3",
+   "ryan": "audio/drop-002-ryan.mp3",
+   "alba": "audio/drop-002-alba.mp3"
+  },
+  "issues": [
+   {
+    "id": "2026-02-01",
+    "label": "Issue of Feb 1",
+    "weekday": "Sun",
+    "top": "The business of sports fandom is changing",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: the business of sports fandom, from jerseys to stadium hot dogs."
+       }
+      ]
+     },
+     {
+      "icon": "🎟️",
+      "name": "Sunday Theme: Sports Fandom",
+      "bullets": [
+       {
+        "h": "Fanatics wants to be your whole fan life",
+        "t": "The merch giant brought in about $13 billion last year and wants to hit $50 billion. Its betting arm doubled to about 8% market share, and a branded credit card arrives this spring."
+       },
+       {
+        "h": "That ticket might not be yours to sell",
+        "t": "Teams use digital-only tickets, price floors, and fines to limit resale. The NFL fined more than 100 players and staff for flipping Super Bowl tickets last year."
+       },
+       {
+        "h": "Stadium food is getting cheaper",
+        "t": "After Atlanta cut hot dogs from $8 to $2, transactions jumped 30%. Utah, Phoenix, and Baltimore followed, though one Commanders beer still cost $16.49."
+       },
+       {
+        "h": "Pop culture is minting new fans",
+        "t": "Hockey ticket interest on StubHub spiked 40% during the hit show Heated Rivalry, and Taylor Swift tripled Chiefs home ticket sales on StubHub."
+       },
+       {
+        "h": "Free stuff fills seats",
+        "t": "Bobbleheads, jerseys, and quirky giveaways keep stands full, especially in baseball. The Panthers once offered a lifetime supply of mayo for every forced turnover."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-02",
+    "label": "Issue of Feb 2",
+    "weekday": "Mon",
+    "top": "AI agents get their own social network",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's Groundhog Day. Phil's overall forecast accuracy is about 35%, so we'll take the over."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Bitcoin slips below $76,000",
+        "t": "That's about 40% off its October high, after a fourth straight losing month."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Shutdown fix in sight, maybe",
+        "t": "House Speaker Mike Johnson says the partial shutdown will end by Tuesday, but the House margins are razor thin."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Kendrick Lamar and Bad Bunny sweep the Grammys",
+        "t": "Kendrick won five, bringing his total to 27, the most ever for a rapper. Bad Bunny took album of the year, and Trevor Noah hosted for the sixth and final time."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Walmart and Target get new CEOs",
+        "t": "John Furner takes over a thriving Walmart, while Michael Fiddelke inherits a Target with 10 of the last 12 quarters flat or down."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Alcaraz wins the Australian Open",
+        "t": "He beat Djokovic and became the youngest player to complete a career Grand Slam."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Moltbook mania: hilarity or singularity?",
+        "t": "A Reddit-style site where only AI agents post claimed 1.5 million users and an AI religion called Crustafarianism. Musk called it the early stages of the singularity, while skeptics say many posts are fake."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "28: days of calendar perfection",
+        "t": "February starts on a Sunday and ends on a Saturday, a perfect four-week grid. The last time was 2015, and the next is 2037."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Thaumaturgy",
+        "t": "Means 'magic' or 'miracle-working.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-03",
+    "label": "Issue of Feb 3",
+    "weekday": "Tue",
+    "top": "Musk merges SpaceX and xAI",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Phil saw his shadow, so it's six more weeks of winter, and the crowd booed him."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The US and India strike a trade deal",
+        "t": "US tariffs on Indian goods drop to 18%, and India agrees to stop buying Russian oil."
+       },
+       {
+        "h": "Project Vault: a $12 billion minerals stockpile",
+        "t": "The US is stashing rare earths and critical minerals, about 60 days' worth, to loosen China's grip on supply."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Disney's next CEO may come from the parks",
+        "t": "Parks chief Josh D'Amaro is the favorite, helped by a record $10 billion quarterly profit from parks and cruises."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Crying horse replaces Labubu",
+        "t": "A $3.60 plush horse with an upside-down snout went viral, and about 15,000 are ordered daily."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Musk merges SpaceX and xAI",
+        "t": "The deal values the combined company at about $1.25 trillion, and Musk is pitching data centers in space."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "393,812: minivans sold last year, up 21%",
+        "t": "Overall car sales grew just 2%. Dads in their forties are driving the comeback."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Tchotchke",
+        "t": "Means 'a knickknack.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-04",
+    "label": "Issue of Feb 4",
+    "weekday": "Wed",
+    "top": "PayPal's stock tanks as it replaces its CEO",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A new study says rocking yourself to sleep helps you nod off faster and remember more. Guess we're all babies now."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "PayPal swaps its CEO and the stock tanks",
+        "t": "Enrique Lores replaces Alex Chriss on March 1. Weak guidance sent shares down more than 20%, and the stock has lost nearly half its value in a year."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The House ends the partial shutdown",
+        "t": "A $1.2 trillion funding bill passed, but Homeland Security is only funded through Feb. 13."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Disney taps parks boss Josh D'Amaro as CEO",
+        "t": "He replaces Bob Iger on March 18, so for the first time since 2005 Disney's CEO won't be named Bob."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "PepsiCo cuts snack prices up to 15%",
+        "t": "Doritos and friends get cheaper as shoppers pinch pennies, with no shrinkflation."
+       }
+      ]
+     },
+     {
+      "icon": "🧳",
+      "name": "Travel",
+      "bullets": [
+       {
+        "h": "Rome's Trevi Fountain now costs 2 euros",
+        "t": "It's free after 10pm, and locals are exempt."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Spain bans social media for under-16s",
+        "t": "It's the first European country to do it, joining Australia, and France is considering the same."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$1 trillion: Walmart's market value",
+        "t": "Only the 11th company to reach the club, and the first traditional retailer."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Dissemination",
+        "t": "Means 'the act of spreading something widely.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-05",
+    "label": "Issue of Feb 5",
+    "weekday": "Thu",
+    "top": "How AI tanked software stocks",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Nancy Meyers is back with her first movie in 11 years, due Christmas 2027 on a $150 million budget."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The last US-Russia nuclear treaty expires",
+        "t": "New START ends, raising fears of a fresh arms race."
+       },
+       {
+        "h": "Nike faces a federal discrimination probe",
+        "t": "The EEOC is looking at whether its diversity goals led to unfair treatment of white employees."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "The Washington Post lays off 30% of its staff",
+        "t": "More than 300 of 800 journalists are cut, shrinking international coverage and nearly erasing the sports desk."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "McDonald's drops a free McNugget Caviar kit",
+        "t": "It includes a $25 gift card and a tin of caviar, and it launches online Feb. 10."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "AI's latest victim: software stocks",
+        "t": "A new Anthropic legal tool for its Cowork assistant helped wipe almost $300 billion off software stocks in a day. Investors fear AI could replace many software products."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Alphabet plans $185 billion in AI spending",
+        "t": "That's double last year, on top of record sales of $403 billion in 2025."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "80: years of canned frozen juice",
+        "t": "Minute Maid is discontinuing its frozen concentrates after eight decades. The idea began with a 1945 Army order for 500,000 pounds of orange juice."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Tubular",
+        "t": "Means 'having the form of a tube.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-06",
+    "label": "Issue of Feb 6",
+    "weekday": "Fri",
+    "top": "Yesterday might have been crypto's Black Thursday",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Super Bowl is two days away. Party prep: pre-watch the commercials and buy everyone bibs."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Bitcoin falls below $70,000",
+        "t": "It dropped as much as 10% in a day and is nearly half off its October peak."
+       },
+       {
+        "h": "Amazon plans $200 billion in AI spending",
+        "t": "That's far more than analysts expected, and the stock fell 10% after hours."
+       },
+       {
+        "h": "Bob's Discount Furniture goes public",
+        "t": "It raised $331 million and was valued at about $2.4 billion."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "OpenAI and Anthropic spar over a Super Bowl ad",
+        "t": "Anthropic's spots mock ads inside chatbots, and Sam Altman called them dishonest."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "The Winter Olympics open today in Italy",
+        "t": "NHL players return for the first time since 2014, and Lindsey Vonn is racing on a torn ACL. Gold and silver medals are worth more than double Paris because of metal prices."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "108,435: jobs cut in January",
+        "t": "The most for any January since 2009, up 118% from a year ago."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Clarion",
+        "t": "Means 'loud and clear.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-07",
+    "label": "Issue of Feb 7",
+    "weekday": "Sat",
+    "top": "Big Tech's $650 billion AI spending plans",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Backup excuses for calling out after the Super Bowl include 'my blood is 40% queso.' About 26 million people are projected to skip Monday."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Big Tech will spend $650 billion on AI this year",
+        "t": "Amazon plans $200 billion, Alphabet $185 billion, Meta up to $135 billion, and Microsoft about $105 billion. That's 60% more than last year."
+       },
+       {
+        "h": "Stellantis takes a $26 billion hit for its EV pivot",
+        "t": "Its stock fell about 27%, and Ford and GM also took big charges."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "AI is the MVP of Super Bowl ads",
+        "t": "Anthropic, Google, Amazon, and Meta all ran spots, weight loss drugs and celebrities were everywhere, and Guy Fieri pitched power tools."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "The Winter Olympics open in Milan",
+        "t": "The torch was lit in two places for the first time, and Mariah Carey sang 'Volare.'"
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "A Michelangelo drawing of a foot sold for $27.2 million"
+       },
+       {
+        "h": "The Louvre says its stolen crown was found crushed but nearly intact"
+       },
+       {
+        "h": "A wildlife photo finalist shows a deer with another deer's head stuck in its antlers"
+       },
+       {
+        "h": "The Hollywood Reporter asked whether underwear is the new tequila"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Emblazoned",
+        "t": "Means 'adorned with.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-08",
+    "label": "Issue of Feb 8",
+    "weekday": "Sun",
+    "top": "If you file on time, that might be too late",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: taxes. Tax season and the Super Bowl both have hikes, cuts, and game-changing returns."
+       }
+      ]
+     },
+     {
+      "icon": "🧾",
+      "name": "Sunday Theme: Taxes",
+      "bullets": [
+       {
+        "h": "Mailing your return on April 15? It may be late",
+        "t": "The post office is picking up mail less often, so postmarks can land a day late. Try a manual postmark, a courier, or e-filing."
+       },
+       {
+        "h": "Do tax hikes scare off millionaires?",
+        "t": "The evidence is mixed. Massachusetts raised almost $6 billion from its millionaire tax in two years, while some tycoons left California and others stayed."
+       },
+       {
+        "h": "Athletes chase states with no income tax",
+        "t": "Tyreek Hill said 'those state taxes, man,' and saved about $9 million by signing in Florida. Mikko Rantanen's Texas deal is worth about $4 million more."
+       },
+       {
+        "h": "A side hustle tax tip",
+        "t": "Track every expense all year in a simple spreadsheet, match costs to tax categories, and hire a pro once you get more than two forms."
+       },
+       {
+        "h": "Famous tax troubles",
+        "t": "Willie Nelson, Floyd Mayweather, and Al Capone all tangled with the taxman. Nelson even released an album to repay the IRS."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-09",
+    "label": "Issue of Feb 9",
+    "weekday": "Mon",
+    "top": "Seahawks win Super Bowl LX",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The day after the Super Bowl is rough, but luckily we all got decent sleep during the game."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Japan's PM wins big in snap elections",
+        "t": "Sanae Takaichi's party and its partner won overwhelming control of the lower house, which she calls a mandate for more defense spending."
+       },
+       {
+        "h": "Jimmy Lai sentenced to 20 years",
+        "t": "The Hong Kong media mogul and pro-democracy advocate got a 20-year prison term."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Washington Post CEO Will Lewis steps down",
+        "t": "It comes days after layoffs hit nearly a third of staff. CFO Jeff D'Onofrio is acting CEO."
+       }
+      ]
+     },
+     {
+      "icon": "🏭",
+      "name": "Industrial",
+      "bullets": [
+       {
+        "h": "Glass is the surprise AI winner",
+        "t": "Corning stock is up more than 130% in a year after a $6 billion fiber-optic deal with Meta."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Seahawks beat the Patriots 29 to 13 in Super Bowl LX",
+        "t": "Bad Bunny's halftime show celebrated Puerto Rico with Lady Gaga and Ricky Martin, and Charlie Puth nailed the anthem."
+       },
+       {
+        "h": "Team USA wins figure skating team gold",
+        "t": "Madison Chock, Evan Bates, and 'Quad God' Ilia Malinin led the way."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "60: Super Bowls attended by three lifelong fans",
+        "t": "Tom Henschel, Don Crisman, and Gregory Eaton have been to every one since 1967, when tickets cost $12."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Mandate",
+        "t": "Means 'a command to act.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-10",
+    "label": "Issue of Feb 10",
+    "weekday": "Tue",
+    "top": "Alphabet goes for a 100-year bond",
+    "sections": [
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Alphabet to sell 100-year bonds",
+        "t": "It raised $20 billion in US bonds to help pay for about $185 billion of AI spending this year."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "UK PM Starmer faces calls to resign",
+        "t": "The backlash is over an ambassador pick with close Epstein ties. Two top aides have quit, but Starmer says he is staying."
+       },
+       {
+        "h": "Cuba runs out of jet fuel",
+        "t": "Air Canada suspended all flights as US pressure squeezes the island's oil supply."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Ice dance goes 90s",
+        "t": "Skaters used Spice Girls and Madonna tracks in the rhythm dance, and one Czech team skated to an AI-made song."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "8.6 years: how long homeowners now stay put",
+        "t": "That's the longest on record since 2000, when it was 4.2 years."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Bonanzas",
+        "t": "Means 'very large amounts.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-11",
+    "label": "Issue of Feb 11",
+    "weekday": "Wed",
+    "top": "Trump administration ditches a key climate rule",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Two to three cups of coffee a day may lower dementia risk. It may also raise your odds of a bathroom emergency during a 10am meeting."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Ford reports an $8 billion loss",
+        "t": "EV charges and a surprisingly large tariff bill drove last year's loss."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The EPA scraps its key climate rule",
+        "t": "It's dropping the 2009 endangerment finding, billed as the largest deregulation in US history. Lawsuits are expected."
+       },
+       {
+        "h": "FBI releases footage in the Nancy Guthrie case",
+        "t": "Images show a masked person at the door camera of the Today host's mother. No suspects have been named."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Paramount sweetens its Warner Bros. Discovery bid",
+        "t": "It offered to cover a $2.8 billion termination fee if the Netflix deal falls through."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Spotify adds a record 38 million listeners",
+        "t": "The stock jumped 15% on 751 million monthly users, with a big boost from Wrapped."
+       }
+      ]
+     },
+     {
+      "icon": "🚗",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Ferrari shows off its first EV interior",
+        "t": "The Luce was designed with Jony Ive's firm and keeps satisfyingly clicky physical controls."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Super Bowl LX draws 124.9 million viewers",
+        "t": "The second-biggest audience ever, behind last year's 127.7 million."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "60%: share of new Dollar Tree customers earning six figures",
+        "t": "Nearly half of its new stores in six years opened in wealthy areas."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Oxymoron",
+        "t": "Means 'a figure of speech with seemingly contradictory terms.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-12",
+    "label": "Issue of Feb 12",
+    "weekday": "Thu",
+    "top": "It wasn't a dry January for the job market",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Rebecca Black's 'Friday' turns 15 this week, with more than 178 million views and counting."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Jobs report beats expectations",
+        "t": "The US added 130,000 jobs in January and unemployment fell to 4.3%. Healthcare added 82,000."
+       },
+       {
+        "h": "Kraft Heinz pauses its breakup",
+        "t": "The new CEO says the problems are fixable and plans to invest $600 million instead."
+       },
+       {
+        "h": "Bill Ackman buys $2 billion of Meta",
+        "t": "A bet on the Facebook parent's place in the AI race."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Bondi clashes with lawmakers over the Epstein files",
+        "t": "A five-hour hearing got tense, and she did not apologize to survivors in the room."
+       },
+       {
+        "h": "Switzerland will vote on a population cap",
+        "t": "A June referendum would cap the population at 10 million."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Actor James Van Der Beek dies at 48",
+        "t": "Known for Dawson's Creek, he shared his colorectal cancer diagnosis in 2024."
+       },
+       {
+        "h": "Britney Spears sells her music catalog"
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Doorbell cams spark surveillance fears",
+        "t": "The FBI pulled Nest footage from an offline camera, and Ring's Super Bowl dog-finding ad raised alarms."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Leviathan",
+        "t": "Means 'something large or formidable.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-13",
+    "label": "Issue of Feb 13",
+    "weekday": "Fri",
+    "top": "Trump admin ends its immigration crackdown in Minnesota",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's Friday the 13th, and 2/13/26 is a 'magic date' because 2 times 13 equals 26."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Minnesota immigration surge ends",
+        "t": "The operation led to more than 4,000 arrests, mass protests, and the deaths of two US citizens. A small team stays behind."
+       },
+       {
+        "h": "The DOJ antitrust chief resigns",
+        "t": "Gail Slater was reportedly pushed out after months of clashes with leadership."
+       },
+       {
+        "h": "The EPA formally repeals its climate finding",
+        "t": "Environmental groups plan to sue, and the Supreme Court may have the last word."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Hilary Duff announces her first world tour in nearly 20 years"
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Home sales fall 8.4%",
+        "t": "Existing-home sales dropped in January, the worst month for closings in more than two years."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Olympic drones steal the show",
+        "t": "More than two dozen drones film luge and skiing, but athletes and viewers are bothered by the whirring."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple may delay its Siri upgrades",
+        "t": "Bloomberg says testing issues could push the planned changes back."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "22%: how much ground beef prices rose in two years",
+        "t": "Boneless chicken prices fell 1.7%, so dark meat is in demand."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Volition",
+        "t": "Means 'the power to make your own decisions.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-14",
+    "label": "Issue of Feb 14",
+    "weekday": "Sat",
+    "top": "Inflation is finally taking a chill pill",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Valentine's Day. Roses are red, violets are blue, and we love you, too."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Inflation cools to 2.4%",
+        "t": "Prices rose 0.2% in January. Gas fell 3.2% and eggs dropped 7%, but airfare jumped 6.5%."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Homeland Security shuts down over the ICE fight",
+        "t": "Funding lapsed as Democrats push for limits on ICE. TSA and Coast Guard staff could miss paychecks if it drags on."
+       },
+       {
+        "h": "Dubai port boss quits over Epstein ties",
+        "t": "DP World's CEO resigned after emails with Epstein came out."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Quad God takes two falls",
+        "t": "Ilia Malinin fell twice in his free skate and is out of medal contention."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Ring drops its Flock Safety partnership",
+        "t": "The split follows backlash over its Super Bowl ad."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Hollywood vs. the fake Cruise and Pitt fight",
+        "t": "A viral AI clip made with ByteDance's Seedance 2.0 drew copyright complaints from the film studios' trade group and SAG-AFTRA."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "A Manhattan restaurant now lets diners bring an AI companion as a date"
+       },
+       {
+        "h": "A Stanford student is using an algorithm to pair 5,000 singles"
+       },
+       {
+        "h": "A Slovak fugitive was arrested at an Olympic hockey game"
+       },
+       {
+        "h": "Nick Castellanos says he was benched for bringing a beer into the dugout"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Deceleration",
+        "t": "Means 'reduction in speed or rate.'"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-001",
   "title": "Drop #1: Jan 18 to 31, 2026",
   "start": "2026-01-18",
@@ -800,7 +1950,7 @@
         "t": "Down 2% this year and almost 11% over the past year. Gold and the Swiss franc are surging at the same time, a sign the dollar may be losing its safe-haven status."
        },
        {
-        "h": "Trump says he'll name his Fed Chair pick this morning",
+        "h": "Trump says he'll name his Fed Chair pick today",
         "t": "Former Fed Gov. Kevin Warsh was a 95% favorite on Polymarket."
        }
       ]

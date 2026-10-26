@@ -111,6 +111,12 @@ h3{margin:0;font-size:1.1rem}
 [data-sec="word-of-the-day"]{--c:#8a5a2b}
 [data-sec="icymi"]{--c:#e8453c}
 [data-sec^="sunday"]{--c:#3d5afe}
+[data-sec="retail"]{--c:#e91e63}
+[data-sec="food-bev"]{--c:#ef6c00}
+[data-sec="travel"]{--c:#0097a7}
+[data-sec="auto"]{--c:#546e7a}
+[data-sec="industrial"]{--c:#795548}
+[data-sec="real-estate"]{--c:#43a047}
 
 /* archive */
 .month{margin:26px 0 8px;font-size:1.2rem;display:flex;align-items:center;gap:8px}

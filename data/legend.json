@@ -14,5 +14,11 @@
  {"icon":"🏟️","name":"Dave's Sports Desk","desc":"Named column: sports with attitude."},
  {"icon":"🌟","name":"Brendan's Got Good News","desc":"Named column: a feel-good story."},
  {"icon":"⚖️","name":"Matty's Work-Life Balance","desc":"Named column: work and life tips."},
- {"icon":"🌐","name":"Molly Explains the Internet","desc":"Named column: what is happening online."}
+ {"icon":"🌐","name":"Molly Explains the Internet","desc":"Named column: what is happening online."},
+ {"icon":"🛍️","name":"Retail","desc":"Stores, brands, and what shoppers are buying."},
+ {"icon":"🍔","name":"Food & Bev","desc":"What we are eating and drinking."},
+ {"icon":"🧳","name":"Travel","desc":"Trips, tourists, and getting around."},
+ {"icon":"🚗","name":"Auto","desc":"Cars, carmakers, and the road ahead."},
+ {"icon":"🏭","name":"Industrial","desc":"Factories, materials, and heavy industry."},
+ {"icon":"🏠","name":"Real Estate","desc":"Homes, housing, and property."}
 ]
