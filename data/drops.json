@@ -1,5 +1,1179 @@
 [
  {
+  "id": "drop-003",
+  "title": "Drop #3: Feb 15 to 28, 2026",
+  "start": "2026-02-15",
+  "end": "2026-02-28",
+  "intro": "Two more weeks, boiled down. The Supreme Court struck down Trump's tariffs, Paramount beat Netflix for Warner Bros. Discovery, Team USA took Olympic hockey gold twice, and Anthropic and the Pentagon had a showdown.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "$16.5M",
+   "label": "One Pikachu card",
+   "detail": "A record sale for a Pokémon card, as the franchise turned 30."
+  },
+  "note": "Fourteen issues in this drop, one for every day.",
+  "audio": {
+   "william": "audio/drop-003-william.mp3",
+   "ryan": "audio/drop-003-ryan.mp3",
+   "alba": "audio/drop-003-alba.mp3"
+  },
+  "issues": [
+   {
+    "id": "2026-02-15",
+    "label": "Issue of Feb 15",
+    "weekday": "Sun",
+    "top": "The big business of little sweet treats",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: candy, the big business of little sweet treats."
+       }
+      ]
+     },
+     {
+      "icon": "🍬",
+      "name": "Sunday Theme: Candy",
+      "bullets": [
+       {
+        "h": "TikTok is fueling a candy craze",
+        "t": "Swedish pick-and-mix shops, freeze-dried candy, and 'Dubai chocolate' are all trending. Freeze-dried candy is projected to grow from $1.3 billion in 2024 to $3.1 billion in 2034."
+       },
+       {
+        "h": "Candy franchises built to last",
+        "t": "Candy Crush still had about 180 million players in 2024, the Wonka movies keep earning, and Candy Land sells about a million copies a year."
+       },
+       {
+        "h": "Mars is really a pet company",
+        "t": "The $137 billion business makes about 60% of its revenue from pet care and owns more than 3,000 vet clinics."
+       },
+       {
+        "h": "Holidays belong to candy",
+        "t": "56% of US shoppers were projected to buy Valentine's candy, and Americans spend $3.3 billion on Easter treats."
+       },
+       {
+        "h": "Candy in a wellness world",
+        "t": "Convenience store candy trips fell 7.5%, GLP-1 drugs are changing cravings, and big brands are phasing out artificial dyes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-16",
+    "label": "Issue of Feb 16",
+    "weekday": "Mon",
+    "top": "Warner Bros. Discovery may talk to Paramount again",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Simpsons aired its record-extending 800th episode, after nearly 40 years on the air."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The DHS shutdown drags on",
+        "t": "The partial shutdown has no end in sight, since lawmakers don't return to Washington until next week."
+       },
+       {
+        "h": "US officials speak up at the Munich Security Conference",
+        "t": "Marco Rubio urged European nations to 'revitalize an old friendship' with the US."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "WBD may reopen talks with Paramount",
+        "t": "Paramount sent another sweetened offer on Feb. 10, and some WBD board members wonder if it offers a path to a superior deal."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "US men's hockey beats Germany at the Olympics",
+        "t": "The win earns a bye to the quarterfinals."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI hires the OpenClaw founder",
+        "t": "Sam Altman scooped up Peter Steinberger, whose open-source AI agents can finish tasks without constant oversight."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "5% to 7%: share of hotel revenue free breakfast can cost",
+        "t": "Hyatt Place dropped free breakfast at dozens of hotels, and Holiday Inn went buffet-only."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Denouement",
+        "t": "Means 'the final outcome.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-17",
+    "label": "Issue of Feb 17",
+    "weekday": "Tue",
+    "top": "The Epstein files are toppling business bigwigs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Lunar New Year and Mardi Gras. The Snake is out, and the Fire Horse gallops in."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The Epstein files shake up boardrooms",
+        "t": "Hyatt's Tom Pritzker is leaving the board and Goldman's top lawyer Kathryn Ruemmler resigned. Casey Wasserman is selling his talent agency."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Actor Robert Duvall dies at 95",
+        "t": "Star of The Godfather and Apocalypse Now, he won Best Actor for Tender Mercies."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "US women's hockey beats Sweden 5 to 0",
+        "t": "They advance to the gold medal game against Canada."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "The Pentagon is 'close' to cutting ties with Anthropic",
+        "t": "A dispute over military use of Claude could get Anthropic labeled a supply chain risk."
+       },
+       {
+        "h": "ByteDance adds AI safeguards after Disney's threat",
+        "t": "Its Seedance 2.0 video tool was accused of using studios' characters without permission."
+       },
+       {
+        "h": "KPMG partner fined for using AI on an AI test",
+        "t": "The unnamed partner paid $7,000 and had to retake the exam."
+       }
+      ]
+     },
+     {
+      "icon": "🌐",
+      "name": "Molly Explains the Internet",
+      "bullets": [
+       {
+        "h": "Maxxing and mogging, decoded",
+        "t": "'Maxxing' means optimizing for whatever you attach it to, like looksmaxxing. 'Mogging' means one-upping someone, the end goal of maxxing."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "1 in 9: CEOs replaced last year",
+        "t": "That's the highest turnover since 2010, and companies worth $2.2 trillion have already changed leaders in 2026."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Potpourri",
+        "t": "Means 'a mixture of things.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-18",
+    "label": "Issue of Feb 18",
+    "weekday": "Wed",
+    "top": "Rent control is the talk of Boston",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Pluto Day. It was discovered on Feb. 18, 1930, then demoted to dwarf planet in 2006."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Civil rights leader Rev. Jesse Jackson dies at 84",
+        "t": "He founded the Rainbow PUSH Coalition and ran for president twice."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Paramount gets another shot at WBD",
+        "t": "Netflix gave WBD a seven-day waiver to reopen talks, and Paramount's offer includes covering the $2.8 billion fee owed to Netflix."
+       },
+       {
+        "h": "Colbert says CBS blocked an interview over FCC concerns",
+        "t": "CBS says it only gave legal guidance."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Tide launches waterless detergent tiles",
+        "t": "Tide evo dissolves in cold water. A box of 42 costs $19.99 on Amazon versus $12.97 for Pods."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Massachusetts may vote on rent control",
+        "t": "A November ballot question would cap rent hikes at inflation, up to 5%. Gov. Maura Healey opposes it."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "2x: how much more often startups work from home",
+        "t": "Employees at companies founded after 2015 work from home nearly twice as often as those at companies founded before 1990."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Conundrum",
+        "t": "Means 'an intricate and difficult problem.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-19",
+    "label": "Issue of Feb 19",
+    "weekday": "Thu",
+    "top": "Zuck testifies at a landmark social media trial",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A runaway local dog crashed the Olympic women's cross-country sprint and crossed the finish line to cheers."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Fed minutes: rate cuts are likely months away",
+        "t": "Officials are divided on what should trigger a cut, and proof of lower inflation is unlikely for months."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US masses its most airpower in the Mideast since 2003",
+        "t": "Strikes on Iran could come as soon as this weekend, while talks continue."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "eBay to buy Depop from Etsy",
+        "t": "The cash deal is worth about $1.2 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "The Seahawks are up for sale",
+        "t": "The Super Bowl champs could fetch up to $8 billion, an NFL record."
+       },
+       {
+        "h": "Mikaela Shiffrin wins slalom gold",
+        "t": "It's her first Olympic win in eight years."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Zuckerberg testifies in a landmark trial",
+        "t": "It's the first time he's answered claims that Instagram harms kids in front of a jury. The case could shape thousands of similar lawsuits."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "A robot dog gets a school kicked out of India's AI summit",
+        "t": "A professor passed off a commercially available Chinese robot dog as her university's own creation."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "55 seats: JPMorgan's staff pub for about 10,000 workers",
+        "t": "Reservations at Morgan's are so hot that younger staffers book weeks out."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Bellwether",
+        "t": "Means 'one that takes the lead or initiative.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-20",
+    "label": "Issue of Feb 20",
+    "weekday": "Fri",
+    "top": "Trade deficit barely budges despite Trump's tariffs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Punch, a baby monkey at a Japanese zoo, went viral cuddling a plush orangutan, and now the other monkeys hang with him."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The trade deficit barely budges despite tariffs",
+        "t": "It fell just 0.2% to $901.5 billion in 2025. The deficit with China shrank, but it grew with Taiwan, Mexico, and Vietnam."
+       },
+       {
+        "h": "Walmart posts strong sales but a cautious outlook",
+        "t": "Holiday sales rose 6%, and Amazon passed Walmart in annual sales, $717 billion to $713.2 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Former Prince Andrew is arrested",
+        "t": "Andrew Mountbatten-Windsor was held on suspicion of misconduct in public office tied to Epstein, the first arrest of a senior British royal since 1647."
+       },
+       {
+        "h": "Trump commits $10 billion to his 'Board of Peace'",
+        "t": "He didn't say where the money would come from, and many US allies declined to join."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Actor Eric Dane dies at 53",
+        "t": "Best known as Dr. McSteamy on Grey's Anatomy, he died 10 months after announcing his ALS diagnosis."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Nestlé plans to sell its ice cream brands",
+        "t": "It's in advanced talks to sell to Froneri, a joint venture it created, to focus on coffee, pet care, and snacks."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "US women's hockey wins Olympic gold",
+        "t": "They beat Canada 2 to 1 in overtime. Alysa Liu also won figure skating gold, the first American to do so since 2002."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$3,400: what some top lawyers charge per hour",
+        "t": "That's up from $2,500 a year ago, and partner rates at big firms rose 16% last year."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Excoriated",
+        "t": "Means 'censured or criticized severely.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-21",
+    "label": "Issue of Feb 21",
+    "weekday": "Sat",
+    "top": "The Supreme Court struck down Trump's tariffs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The USA faces Canada in the men's Olympic hockey gold medal game tomorrow. Stock up on beer, bacon, and more Katy Perry than expected."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The Supreme Court rules Trump's global tariffs illegal",
+        "t": "In a 6 to 3 decision, the court said he overstepped his authority. Trump announced a new 10% global tariff under a different law, and refunds could reach $175 billion."
+       },
+       {
+        "h": "Blue Owl's $1.4 billion asset sale rattles private credit",
+        "t": "Its shares fell about 12%, and Blackstone, KKR, and Apollo also slipped."
+       },
+       {
+        "h": "US growth slowed to 1.4% at the end of 2025",
+        "t": "That's down from 4.4% the quarter before, partly because of the shutdown."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump says he's considering limited strikes on Iran",
+        "t": "Iran says it will send a proposed deal within days."
+       },
+       {
+        "h": "Trump orders release of government UFO files",
+        "t": "The Pentagon and other agencies are to release files on aliens and unidentified aerial phenomena."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Miley Cyrus is back at the beach house for a Hannah Montana 20th anniversary special"
+       },
+       {
+        "h": "A Chicago man jumped into freezing Lake Michigan to save a baby in a stroller blown into the water"
+       },
+       {
+        "h": "A sleeper shark was spotted swimming in the near-freezing waters of Antarctica"
+       },
+       {
+        "h": "Sam Altman and Dario Amodei avoided holding hands at India's AI summit photo op"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Shenanigans",
+        "t": "Means 'high-spirited or mischievous activity.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-22",
+    "label": "Issue of Feb 22",
+    "weekday": "Sun",
+    "top": "What's owned by private equity and what will be soon",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: private equity, from your dentist to your fonts."
+       }
+      ]
+     },
+     {
+      "icon": "🏦",
+      "name": "Sunday Theme: Private Equity",
+      "bullets": [
+       {
+        "h": "Is private equity past its prime?",
+        "t": "PE owns almost 13,000 US companies, about 7% of GDP, but returns trail the S&P 500: 5.8% versus 11.6% a year from 2022 to Q3 2025."
+       },
+       {
+        "h": "PE loves restaurants",
+        "t": "It invested $94.5 billion in bars and restaurants from 2014 to 2024. McAlister's thrived, but nearly half of 2024 restaurant bankruptcies were PE-backed."
+       },
+       {
+        "h": "The human cost in healthcare",
+        "t": "A Harvard-coauthored study found a 13% rise in emergency department deaths at hospitals after PE acquisitions."
+       },
+       {
+        "h": "PE is coming for sports",
+        "t": "74 major US pro teams have PE ties, including 20 of 30 NBA teams. The Patriots were the first PE-backed team in a Super Bowl."
+       },
+       {
+        "h": "What else PE owns",
+        "t": "Font library Monotype, big music catalogs, and YouTube channels like Cocomelon."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-23",
+    "label": "Issue of Feb 23",
+    "weekday": "Mon",
+    "top": "Businesses face an uphill climb on tariff refunds",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Team USA beat Canada in overtime for men's hockey gold, 46 years to the day after the Miracle on Ice. Proposed nickname: The United Skates of America."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Companies face an uphill climb for tariff refunds",
+        "t": "The court left the process to the Court of International Trade. Hundreds of firms, including Costco and Dole, have sued, and Trump says it could take five years."
+       },
+       {
+        "h": "Bitcoin falls below $65,000",
+        "t": "Renewed global trade tensions weighed on crypto."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "A Nor'easter blankets the Northeast",
+        "t": "Six states declared emergencies, and New York City banned road travel overnight."
+       },
+       {
+        "h": "Mexico's army kills cartel leader El Mencho",
+        "t": "The Jalisco cartel boss died after a raid, sparking violence in almost a dozen states."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "One Battle After Another wins best film at the BAFTAs"
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Axe redesigns its body spray to cut the fog",
+        "t": "New cans are lighter and hold 10% more sprays. Its US share of deodorant sprays fell from 24% to 16.3%."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "12: gold medals for Team USA",
+        "t": "It also took a record 33 total medals, the most ever at a Winter Olympics."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Wield",
+        "t": "Means 'to handle effectively.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-24",
+    "label": "Issue of Feb 24",
+    "weekday": "Tue",
+    "top": "Pentagon and Anthropic chiefs meet amid beef",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The State of the Union is tonight. Place your bets on the length: last year's address ran 1 hour and 39 minutes."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "FedEx sues for a full tariff refund",
+        "t": "It looks to be the first large US company to sue after the Supreme Court ruling."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "A huge snowstorm hits 40 million people",
+        "t": "Parts of New York City got 19 inches, and Providence broke its record with 32.8 inches."
+       },
+       {
+        "h": "Pentagon concerned about a long Iran campaign",
+        "t": "The Wall Street Journal says military leaders raised worries to Trump."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Mortgage rates fall below 6%",
+        "t": "The 30-year fixed rate hit 5.99%, the lowest since 2022, and refinance applications are up 130% from a year ago."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Gen Z is picking up iPods",
+        "t": "Searches for the iPod Classic rose 25% last year, and downloads of the phone-blocking Brick app were up about 600% in January."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Anthropic's CEO meets the Pentagon to save a $200 million deal",
+        "t": "They disagree on whether Claude can be used for surveillance of Americans or fully autonomous weapons. Hegseth has floated a 'supply chain risk' label."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "10%: drop in AMC attendance last year",
+        "t": "It cut its losses, and expects a better 2026 slate with films like The Odyssey."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Cinephiles",
+        "t": "Means 'film enthusiasts.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-25",
+    "label": "Issue of Feb 25",
+    "weekday": "Wed",
+    "top": "Trump gives a record-long State of the Union",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The cottage from Heated Rivalry is now on Airbnb, with a fire pit and 400 feet of private waterfront."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Jamie Dimon's 'anxiety is high'",
+        "t": "The JPMorgan CEO says the current climate reminds him of the run-up to 2008, with lenders making risky bets."
+       },
+       {
+        "h": "Novo Nordisk slashes Ozempic and Wegovy prices",
+        "t": "From 2027 each lists at $675 a month, cuts of 34% and 50%."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump delivers a record 108-minute State of the Union",
+        "t": "He defended his tariffs and declared a 'War on Fraud.' Virginia Gov. Abigail Spanberger gave the Democratic response, focused on affordability."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Dark Sky's creators launch Acme Weather",
+        "t": "It shows several possible forecasts and community-reported conditions, even rainbows, for $25 a year."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "AMD signs a $100 billion chip deal with Meta",
+        "t": "Meta will buy 6 gigawatts of AI chips and can own up to 10% of AMD."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "54%: US teens using AI chatbots for schoolwork",
+        "t": "59% think cheating with AI happens regularly at their school."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Oblate",
+        "t": "Means 'round but flattened at the top and bottom.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-26",
+    "label": "Issue of Feb 26",
+    "weekday": "Thu",
+    "top": "Nvidia profits boom, investors shrug",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Meteorological spring starts March 1 and astronomical spring starts March 20, so real spring is whenever you hear the first sneeze."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Kalshi fines a MrBeast video editor for insider trading",
+        "t": "He paid over $20,000 and was suspended for two years for trading on markets tied to MrBeast videos."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US and Iran talk in Geneva",
+        "t": "The US says any deal must include Iran giving up its nuclear program."
+       },
+       {
+        "h": "Bill Gates apologizes and Larry Summers resigns over Epstein ties",
+        "t": "Summers is stepping down from his teaching roles at Harvard."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Survivor kicks off its 50th season",
+        "t": "Last year it was the most-watched Emmy nominee, with 462.4 million viewing hours."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Nvidia posts record sales, but investors shrug",
+        "t": "Q4 sales hit $68.1 billion, up 73%, and it forecasts about $78 billion next quarter."
+       },
+       {
+        "h": "Anthropic drops a core safety pledge",
+        "t": "It will no longer pause training if a model outpaces its safeguards, unless it has a significant lead."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$5.84: the average tooth fairy payout",
+        "t": "That's up 17% from 2025, and a first tooth now fetches $7.17."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Astronomical",
+        "t": "Means 'of or relating to astronomy.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-27",
+    "label": "Issue of Feb 27",
+    "weekday": "Fri",
+    "top": "Paramount wins the WBD bidding war",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Tampa's airport wants a jammy-free zone after a 'crisis' of people flying in pajamas."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Pakistan declares 'open war' on Afghanistan",
+        "t": "It followed overnight cross-border attacks."
+       },
+       {
+        "h": "US and Iran leave talks without a deal",
+        "t": "Mediators still reported significant progress."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Paramount beats Netflix for Warner Bros. Discovery",
+        "t": "Its $31 per share offer, about $111 billion, won after Netflix refused to raise its bid. Netflix gets a $2.8 billion breakup fee."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Burger King tests an AI headset coach named Patty",
+        "t": "It listens for 'please' and 'thank you' to grade friendliness. The chain also says it will finally improve the Whopper."
+       },
+       {
+        "h": "Papa Johns will close 300 stores",
+        "t": "Interest in pizza is waning."
+       }
+      ]
+     },
+     {
+      "icon": "🚗",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Stellantis posts its first annual loss ever",
+        "t": "It followed the company scaling back its EV strategy."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Instagram will alert parents to suicide-related teen searches",
+        "t": "Alerts apply to teens and parents who enroll."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Anthropic says it 'cannot in good conscience' meet Pentagon demands",
+        "t": "It wants guarantees Claude won't be used for mass surveillance or fully autonomous weapons."
+       },
+       {
+        "h": "Block will cut about 40% of staff in an AI pivot",
+        "t": "Headcount drops from over 10,000 to just under 6,000, and the stock rose 24% after hours."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "63%: trust in banks in crisis-hit countries",
+        "t": "It's up from 40% in 2009, and higher than trust in governments or courts."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Homilies",
+        "t": "Means 'sermons that interpret scripture.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-02-28",
+    "label": "Issue of Feb 28",
+    "weekday": "Sat",
+    "top": "Anthropic blacklisted as OpenAI gets the Pentagon deal",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's the last day of February, which was cut to 28 days thanks to ancient Roman superstitions about even numbers."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US evacuates some embassy staff as Iran talks stall",
+        "t": "Trump says he's 'not happy' with Iran and hasn't decided on an attack."
+       },
+       {
+        "h": "Bill Clinton says he 'saw nothing' in his Epstein deposition",
+        "t": "He sat for an hourslong closed-door session with a House committee."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Pokémon turns 30",
+        "t": "It has earned about $150 billion, and a Pikachu Illustrator card sold for a record $16.5 million."
+       },
+       {
+        "h": "Pop hitmaker Neil Sedaka dies at 86",
+        "t": "He wrote 'Breaking Up Is Hard to Do' and 'Calendar Girl.'"
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI lands the Pentagon deal after Anthropic is blacklisted",
+        "t": "Trump ordered agencies to stop using Anthropic, and the Pentagon labeled it a supply chain risk. Hours later OpenAI announced a classified-network deal with similar guardrails."
+       },
+       {
+        "h": "OpenAI raises $110 billion",
+        "t": "Amazon puts in $50 billion, and Nvidia and SoftBank $30 billion each, at a $730 billion valuation before the new money."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "An Australian supermarket's AI chatbot apologized for telling stories about its mother"
+       },
+       {
+        "h": "A Florida nudist camp is for sale for $2.5 million"
+       },
+       {
+        "h": "Researchers say the origins of writing go back tens of thousands of years further than thought"
+       },
+       {
+        "h": "A serial stowaway was arrested again for sneaking onto a Newark to Milan flight"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Soiree",
+        "t": "Means 'a party held in the evening.'"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-002",
   "title": "Drop #2: Feb 1 to 14, 2026",
   "start": "2026-02-01",
