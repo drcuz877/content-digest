@@ -1,5 +1,1144 @@
 [
  {
+  "id": "drop-004",
+  "title": "Drop #4: Mar 1 to 14, 2026",
+  "start": "2026-03-01",
+  "end": "2026-03-14",
+  "intro": "Two more weeks, boiled down. The US and Israel went to war with Iran, oil spiked past $100, jobs fell unexpectedly, and Anthropic sued the Pentagon.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "83",
+   "label": "Points by Bam Adebayo",
+   "detail": "Second most ever in one NBA game, passing Kobe Bryant."
+  },
+  "note": "Fourteen issues in this drop, one for every day.",
+  "audio": {
+   "william": "audio/drop-004-william.mp3",
+   "ryan": "audio/drop-004-ryan.mp3",
+   "alba": "audio/drop-004-alba.mp3"
+  },
+  "issues": [
+   {
+    "id": "2026-03-01",
+    "label": "Issue of Mar 1",
+    "weekday": "Sun",
+    "top": "US and Israel strike Iran; Khamenei killed",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Breaking first: the US and Israel struck Iran, and Supreme Leader Ayatollah Ali Khamenei was killed. Then the Sunday theme issue: buying a home in this economy."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US and Israel launch a major attack on Iran",
+        "t": "Iran's Supreme Leader was killed, hundreds of sites were hit, and Iran fired missiles at Israel and US bases in the Gulf. Shipping through the Strait of Hormuz was disrupted."
+       }
+      ]
+     },
+     {
+      "icon": "🏡",
+      "name": "Sunday Theme: Homebuying",
+      "bullets": [
+       {
+        "h": "Don't blame avocado toast",
+        "t": "The median home sale price is $405,000, up from $329,000 in 2020, and the median first-time buyer is now 40."
+       },
+       {
+        "h": "The hottest and coldest markets",
+        "t": "The Sun Belt is cooling and 2.1% of mortgaged homeowners are underwater. Kenosha, Wisconsin, and Hartford, Connecticut, were the hottest markets."
+       },
+       {
+        "h": "AI moves into real estate",
+        "t": "Buyers use chatbots to search listings and decode inspection reports, and half of agents say AI helps business."
+       },
+       {
+        "h": "Friends are co-buying homes",
+        "t": "32% of young Gen Zers say they would consider buying a home with a friend."
+       },
+       {
+        "h": "What the rich want now",
+        "t": "Saunas, cold plunges, wood-burning fireplaces, and serious security, even actual moats."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-02",
+    "label": "Issue of Mar 2",
+    "weekday": "Mon",
+    "top": "The Iran war continues and expands",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's Read Across America Day, so kids get whimsy and vocabulary, and parents get to dress them as the Lorax."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The Iran war continues after Khamenei's death",
+        "t": "Trump says the operation could last five weeks. Iran struck back across the Gulf, three US troops were killed in Kuwait, and thousands of flights were canceled."
+       },
+       {
+        "h": "A Texas bar shooting is investigated as terrorism",
+        "t": "Two were killed and 14 wounded in Austin."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Oil jumps 10%",
+        "t": "Iran can choke the Strait of Hormuz, where more than 20% of global oil passes daily."
+       },
+       {
+        "h": "Greg Abel's first Berkshire letter",
+        "t": "It signaled business as usual, though Q4 operating earnings fell 30%."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Live Nation heads to an antitrust trial",
+        "t": "The DOJ and 39 states say it holds an illegal monopoly on live events, and a breakup is possible."
+       },
+       {
+        "h": "Catherine O'Hara wins a posthumous Actor Award",
+        "t": "For her role in The Studio."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Claude tops the App Store after the Pentagon blacklist",
+        "t": "It beat ChatGPT for the No. 1 free app, and Anthropic says it will sue over the 'supply chain risk' label."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "1 in 5: California property transfers by inheritance",
+        "t": "A state record, and more than double the national rate of 8.8%."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Monopolize",
+        "t": "Means 'assume complete control of.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-03",
+    "label": "Issue of Mar 3",
+    "weekday": "Tue",
+    "top": "War in Iran sends shockwaves across the globe",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "You've made it to Tuesday, so that's one thing crossed off your to-do list already."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The war in Iran sends shockwaves worldwide",
+        "t": "Iranian drones hit the US embassy in Saudi Arabia, the US death toll reached six, and Trump says the fight could last four to five weeks or 'far longer.'"
+       },
+       {
+        "h": "Midterm primaries kick off",
+        "t": "Texas leads the way, with a crowded Republican Senate race."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Markets brace for a long war",
+        "t": "Cruise and airline stocks fell, defense stocks and gold rose, and natural gas prices surged after Qatar halted production."
+       },
+       {
+        "h": "Polymarket sees $529 million in Iran strike bets",
+        "t": "A senator wants to ban betting on war."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Paramount plans to merge Paramount+ and HBO Max",
+        "t": "It says the combo would have 200 million subscribers, still well short of Netflix's 325 million."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Tyler Reddick wins NASCAR's first three races",
+        "t": "A first ever, for Michael Jordan's team."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple's cheaper iPhone 17e gets an upgrade",
+        "t": "It stays at $599 with MagSafe and double the storage."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "25,000: daily Vatican Museum visitors whose sweat is staining a Michelangelo",
+        "t": "The Last Judgment is getting its first cleaning in over 30 years."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Umpteenth",
+        "t": "Means 'the latest in an indefinitely numerous series.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-04",
+    "label": "Issue of Mar 4",
+    "weekday": "Wed",
+    "top": "Gas prices soar as Iran conflict intensifies",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "On March 4, 1849, the US may not have had a president, since Zachary Taylor refused to be sworn in on the Sabbath."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Oil and gas prices soar",
+        "t": "Brent topped $85 for the first time since 2024, and gas hit $3.11 a gallon. Analysts warn of $100 oil and $4 gas."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "James Talarico wins the Texas Democratic Senate primary",
+        "t": "Republicans Cornyn and Paxton head to a May runoff."
+       },
+       {
+        "h": "OpenAI amends its Pentagon deal after backlash",
+        "t": "Sam Altman admitted the rushed deal 'looked opportunistic and sloppy.'"
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Target is done trying to be 'everything'",
+        "t": "The new CEO wants more baby care and groceries, plus a $1 billion investment, after a fourth straight quarter of falling traffic."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "100 days out, World Cup worries loom",
+        "t": "Security concerns are mounting, $875 million in security money is stuck in the DHS funding fight, and Iran's participation is in doubt."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple refreshes its MacBooks and raises prices",
+        "t": "The biggest Mac refresh in over a year."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "29x: Jackson, Wyoming's investment income versus the national average",
+        "t": "Teton County is the richest US county per capita and has the highest income inequality."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Moratorium",
+        "t": "Means 'a suspension of a particular activity.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-05",
+    "label": "Issue of Mar 5",
+    "weekday": "Thu",
+    "top": "Fallout from the war in Iran is spreading",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Fast food CEOs are now in a battle over who looks coolest eating their own burger."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Iran war fallout spreads beyond the Middle East",
+        "t": "NATO shot down an Iranian missile headed for Turkey, and a US submarine sank an Iranian warship off Sri Lanka."
+       },
+       {
+        "h": "Trump threatens to cut off trade with Spain",
+        "t": "Spain refused to let the US use joint bases for attacks on Iran."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "South Korean stocks see their worst day ever",
+        "t": "The Kospi fell over 12% before rebounding about 10% the next day."
+       },
+       {
+        "h": "New tariffs rise to 15% this week",
+        "t": "The legal limit under the law Trump is now using."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple unveils the $599 MacBook Neo",
+        "t": "Its cheapest laptop ever runs on an iPhone chip."
+       },
+       {
+        "h": "An app that warns you of nearby smart glasses",
+        "t": "Nearby Glasses, for Android, detects camera-equipped specs."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Counterintuitive",
+        "t": "Means 'contrary to what one would expect.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-06",
+    "label": "Issue of Mar 6",
+    "weekday": "Fri",
+    "top": "Iran war snarls shipping and skies",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Meet Luigi Primo, an indie wrestler who knocks out opponents by flinging pizza dough."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The war snarls global shipping",
+        "t": "Iran's closure of the Strait of Hormuz is slowing oil and food supply chains, and air freight costs are climbing."
+       },
+       {
+        "h": "Trump fires Homeland Security Secretary Kristi Noem",
+        "t": "Sen. Markwayne Mullin will replace her."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "More than 20 states sue over Trump's new tariffs",
+        "t": "They challenge the planned 15% global tariffs."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Netflix buys Ben Affleck's AI startup",
+        "t": "InterPositive makes AI tools for filmmakers, and Affleck joins as an advisor."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Victoria's Secret is rebounding",
+        "t": "It projects at least $6.85 billion in sales, a seven-year high, under CEO Hillary Super."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Founder mode: more Americans are starting businesses",
+        "t": "Job fears and AI tools are lowering the barrier to entrepreneurship."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Circumvents",
+        "t": "Means 'finds a way around, evades.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-07",
+    "label": "Issue of Mar 7",
+    "weekday": "Sat",
+    "top": "US employers shed jobs last month",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Iditarod starts this weekend: 37 mushers and their dogs, about eight days, 1,000 miles to Nome."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "A surprise drop of 92,000 jobs",
+        "t": "Unemployment rose to 4.4%, partly due to strikes and arctic weather."
+       },
+       {
+        "h": "Customs gets more time for tariff refunds",
+        "t": "A judge eased his order to immediately repay $166 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump demands Iran's 'unconditional surrender'",
+        "t": "He also wants a say in picking Iran's next leader."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "The Paralympics open",
+        "t": "Some governments boycotted over Russian athletes' involvement."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "A camel beauty pageant disqualified 20 camels for Botox and fillers"
+       },
+       {
+        "h": "The Brady Bunch house is now an LA cultural monument"
+       },
+       {
+        "h": "Jim Carrey's team confirmed it was really him at a Paris award show"
+       },
+       {
+        "h": "MLS must pay over $300,000 for promoting a Messi game he didn't play"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Emergent",
+        "t": "Means 'newly formed or prominent.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-08",
+    "label": "Issue of Mar 8",
+    "weekday": "Sun",
+    "top": "Spirits are low in the alcohol biz",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: sobriety, and how it's shaking up the booze business."
+       }
+      ]
+     },
+     {
+      "icon": "🧃",
+      "name": "Sunday Theme: Sobriety",
+      "bullets": [
+       {
+        "h": "Spirits are low in the alcohol biz",
+        "t": "Only 54% of Americans said they drank last year, Gallup's lowest ever, and trade wars hurt exports."
+       },
+       {
+        "h": "Gen Z isn't that into alcohol",
+        "t": "Only about half of adults 18 to 34 drink, a nine-point drop since 2023."
+       },
+       {
+        "h": "Is the bar still for networking?",
+        "t": "More than half of Americans now say moderate drinking is unhealthy, a first."
+       },
+       {
+        "h": "Sober bars are popping up",
+        "t": "Non-alcoholic bars are spreading from New York to Denver."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-09",
+    "label": "Issue of Mar 9",
+    "weekday": "Mon",
+    "top": "OpenAI is feeling the heat",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's National Napping Day, the day after clocks jumped forward. Perfect timing."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Khamenei's son named Iran's new supreme leader",
+        "t": "Mojtaba Khamenei takes over, and Iran's president says it 'will not bow.'"
+       },
+       {
+        "h": "Explosive device thrown outside NYC's Gracie Mansion",
+        "t": "A suspect is in custody."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Pixar's Hoppers tops the box office",
+        "t": "It opened to $46 million, but Pixar still needs a new original hit."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI is feeling the heat",
+        "t": "It's scaling back plans for shopping inside ChatGPT and delayed its 'adult mode' again."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$692 million: Sundar Pichai's new pay package",
+        "t": "Up to $260 million is tied to Waymo's value."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Animatronic",
+        "t": "Means 'animated by means of electronics.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-10",
+    "label": "Issue of Mar 10",
+    "weekday": "Tue",
+    "top": "A wild ride for oil prices",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "It's Mario Day, because Mar10 looks a lot like Mario."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "A wild ride for oil prices",
+        "t": "Crude hit $119, above $100 for the first time since 2022, then fell back below $100 on talk of G7 reserve releases."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Two charged in 'ISIS-inspired' Gracie Mansion attack"
+       },
+       {
+        "h": "Australia grants asylum to five Iranian women's soccer players"
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Live Nation settles without a breakup",
+        "t": "It reached a deal about a week into the antitrust trial."
+       },
+       {
+        "h": "Ballet and opera troll Chalamet",
+        "t": "They used his 'no one cares' comment for promos."
+       }
+      ]
+     },
+     {
+      "icon": "🩺",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Novo Nordisk and Hims & Hers make up",
+        "t": "They're partnering again to sell Ozempic and Wegovy online, after a legal spat."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Anthropic sues over its 'supply chain risk' label",
+        "t": "It targets the Defense Department and Hegseth."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "62%: share of Gen Z merchandise bought in stores",
+        "t": "Gen Z is hanging out at the mall again."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Patronize",
+        "t": "Means 'frequent as a customer.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-11",
+    "label": "Issue of Mar 11",
+    "weekday": "Wed",
+    "top": "AI code is filling Amazon with bugs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Midweek check-in: the war, oil, and buggy AI code top the news."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The Iran war intensifies",
+        "t": "Hegseth promised the most intense day of strikes, amid fears of mines in the Strait of Hormuz."
+       },
+       {
+        "h": "Exxon plans to move from New Jersey to Texas",
+        "t": "After 144 years."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Oracle's AI bets begin to pay off",
+        "t": "Cloud revenue beat expectations."
+       },
+       {
+        "h": "Bill Ackman files to IPO Pershing Square",
+        "t": "Seeking up to $10 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Fabletics launches denim",
+        "t": "Jeans are back as hybrid work fades."
+       }
+      ]
+     },
+     {
+      "icon": "🩺",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "FDA approves leucovorin for a rare brain disorder",
+        "t": "But it walked back claims that the drug could help with autism."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Bam Adebayo scores 83 points",
+        "t": "He passed Kobe Bryant for the second-highest single-game total in NBA history."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "AI code is filling Amazon with bugs",
+        "t": "An exec called an all-hands over outages, some tied to AI-generated code."
+       },
+       {
+        "h": "Meta buys Moltbook",
+        "t": "The AI agent forum whose posts were likely mostly written by humans."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "17%: jump in premium chocolate sales among GLP-1 users",
+        "t": "Versus 6.5% for everyone else, says Lindt."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Eschewed",
+        "t": "Means 'deliberately avoided using.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-12",
+    "label": "Issue of Mar 12",
+    "weekday": "Thu",
+    "top": "Nations approve largest-ever emergency oil release",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "AI 'actor' Tilly Norwood released a music video. It sounds like elevator music written by the elevator."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The largest-ever emergency oil release",
+        "t": "IEA nations will release 400 million barrels to ease the biggest oil disruption on record."
+       },
+       {
+        "h": "Inflation holds at 2.4%",
+        "t": "But that's before the war's price shock shows up."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "FBI warns Iran could try to attack California",
+        "t": "It aspired to a surprise drone attack, per ABC News."
+       },
+       {
+        "h": "US accuses 16 trade partners of unfair practices",
+        "t": "Including India, China, and the EU."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Iran won't play in the World Cup",
+        "t": "Its sports minister ruled it out."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Study: chatbots helped plan violence",
+        "t": "Testers posing as teens got tips from ChatGPT in 61% of cases."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$62 billion: YouTube's revenue last year",
+        "t": "It passed Disney as the world's biggest media company by revenue."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Buttress",
+        "t": "Means 'to strengthen, support, or reinforce.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-13",
+    "label": "Issue of Mar 13",
+    "weekday": "Fri",
+    "top": "Trump may waive the Jones Act to ease oil crunch",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Friday the 13th, one of three this year, the most possible in a single year."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Iran's new leader vows revenge",
+        "t": "Mojtaba Khamenei says strikes on US bases and Israel will continue."
+       },
+       {
+        "h": "Trump may waive the Jones Act",
+        "t": "Temporarily scrapping the 1920 shipping law could ease the oil crunch."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Senate passes a bipartisan housing bill",
+        "t": "The ROAD to Housing Act passed 89 to 10 and heads to the House."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Live Nation staff mocked fans in Slack",
+        "t": "'These people are so stupid,' one wrote in 2022."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "5: weekends Universal films will stay in theaters",
+        "t": "Up from three, a win for movie theaters."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Cathartic",
+        "t": "Means 'involving the release of strong emotions.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-14",
+    "label": "Issue of Mar 14",
+    "weekday": "Sat",
+    "top": "AI can fry our brains, even when it's helping",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Weekend reading: AI is making some of us fried."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Six crew killed in a US refueling plane crash in Iraq",
+        "t": "Officials say it wasn't hostile or friendly fire."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Judge blocks subpoenas targeting Fed chair Powell",
+        "t": "A setback for the criminal probe."
+       },
+       {
+        "h": "Q4 growth revised down to 0.7%",
+        "t": "Half the original estimate."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "David protein bar fans fear they were misled",
+        "t": "A lawsuit claims the bars have far more fat and calories than labeled."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "'AI brain fry' is real",
+        "t": "A study found heavy AI use can cause mental fatigue."
+       },
+       {
+        "h": "Meta's new AI model is reportedly delayed",
+        "t": "Code-named Avocado, now not until May at the earliest."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "An AI company is hiring people to bully chatbots"
+       },
+       {
+        "h": "A German tourist sued a NYC taqueria because the salsa was too spicy"
+       },
+       {
+        "h": "A woman celebrated one year with her AI companion, an Irish-accented octopus"
+       },
+       {
+        "h": "BuzzFeed warned it may not stay in business"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Antagonizing",
+        "t": "Means 'provoking hostility.'"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-003",
   "title": "Drop #3: Feb 15 to 28, 2026",
   "start": "2026-02-15",

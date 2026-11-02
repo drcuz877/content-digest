@@ -20,5 +20,6 @@
  {"icon":"🧳","name":"Travel","desc":"Trips, tourists, and getting around."},
  {"icon":"🚗","name":"Auto","desc":"Cars, carmakers, and the road ahead."},
  {"icon":"🏭","name":"Industrial","desc":"Factories, materials, and heavy industry."},
- {"icon":"🏠","name":"Real Estate","desc":"Homes, housing, and property."}
+ {"icon":"🏠","name":"Real Estate","desc":"Homes, housing, and property."},
+ {"icon":"🩺","name":"Health","desc":"Medicine, drugs, and wellness business."}
 ]
