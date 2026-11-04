@@ -1,5 +1,558 @@
 [
  {
+  "id": "drop-005",
+  "title": "Drop #5: Mar 15 to 21, 2026",
+  "start": "2026-03-15",
+  "end": "2026-03-21",
+  "intro": "One week, boiled down. The Oscars crowned One Battle After Another, WNBA players got a historic raise, the Fed held steady, and oil kept climbing as the Iran war dragged on.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "$600K",
+   "label": "New average WNBA salary",
+   "detail": "Up from about $120,000 under the new labor deal."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-005-podcast.mp3",
+   "podcast_seconds": 1592
+  },
+  "issues": [
+   {
+    "id": "2026-03-15",
+    "label": "Issue of Mar 15",
+    "weekday": "Sun",
+    "top": "The changing face of the beauty industry",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: the business of looking good, from makeup for minors to some truly wild cosmetic trends."
+       }
+      ]
+     },
+     {
+      "icon": "💄",
+      "name": "Sunday Theme: Beauty",
+      "bullets": [
+       {
+        "h": "The beauty biz gets a makeover",
+        "t": "Men are warming to makeup (75% say they never wear it, down from 90% in 2019), brands are selling glitter to kids as young as 5, and K-beauty sales in the US more than doubled since 2023."
+       },
+       {
+        "h": "AI deepfakes hit beauty influencers",
+        "t": "Scammers use AI clones of real influencers and doctors to push products they never endorsed."
+       },
+       {
+        "h": "Celeb beauty brands mint moguls",
+        "t": "Elf bought Hailey Bieber's Rhode for $1 billion, Rare Beauty is valued near $2.7 billion, and Rihanna's Fenty stake is worth about $700 million."
+       },
+       {
+        "h": "Hair transplant trips to Turkey",
+        "t": "Grafts run $3,000 to $9,000 there versus up to $24,000 in the US, often bundled with a luxury hotel stay."
+       },
+       {
+        "h": "Wait, what? Cadaver fat injections",
+        "t": "Some execs are filling out curves with purified donor fat, partly to counter the GLP-1 deflation effect."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-16",
+    "label": "Issue of Mar 16",
+    "weekday": "Mon",
+    "top": "One Battle After Another rules the Oscars",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Bracket season is here. Your odds of a perfect one by coin flip: 1 in 9.2 quintillion."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Gas prices to stay high while Hormuz is unsafe",
+        "t": "The energy secretary offered 'no guarantees in war,' and Trump urged NATO to send warships."
+       },
+       {
+        "h": "FCC chair threatens broadcast licenses",
+        "t": "Brendan Carr accused outlets of 'news distortions' over Iran war coverage."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "One Battle After Another wins six Oscars",
+        "t": "Including best picture. Michael B. Jordan won best actor for Sinners, and KPop Demon Hunters took best animated feature."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Dick's Sporting Goods is on a winning streak",
+        "t": "Sales roughly doubled in 10 years, riding a $40 billion youth sports market."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "A dog dad used AI to fight his pup's cancer",
+        "t": "With help from ChatGPT and AlphaFold, he got a custom mRNA shot made for Rosie, and her tumor shrank by half. Not a cure, and experts warn it won't generalize."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$40 trillion: what older women are set to inherit",
+        "t": "Mostly by outliving their husbands, as part of the great wealth transfer."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Genome",
+        "t": "Means 'an organism's genetic material.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-17",
+    "label": "Issue of Mar 17",
+    "weekday": "Tue",
+    "top": "Iran war attacks shake Dubai's safe-haven image",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy St. Patrick's Day. Wear green, read some Yeats, and remember it's a Tuesday."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Dubai's luxury bubble gets popped",
+        "t": "Iranian attacks have killed four in the UAE, and some wealthy residents are asking about moving money out."
+       },
+       {
+        "h": "Allies are wary of a Hormuz coalition",
+        "t": "Trump wants help reopening the strait, but many close allies haven't jumped in."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Nvidia expects $1 trillion in chip sales through 2027",
+        "t": "Jensen Huang made the call at the company's annual developer conference."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Pokémon Go players trained delivery robots",
+        "t": "Billions of images from the game now help sidewalk bots navigate cities, and some players feel duped."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "14: new Giving Pledge signers last year",
+        "t": "Down from 113 in the pledge's first five years."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Incentivized",
+        "t": "Means 'provided with a reason to do something.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-18",
+    "label": "Issue of Mar 18",
+    "weekday": "Wed",
+    "top": "OpenAI pushes ahead on a sexy ChatGPT",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Update: Punch, the lonely little monkey, now reportedly has a girlfriend named Momo-chan."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI wants a sexy ChatGPT",
+        "t": "It's still planning 'adult mode,' despite its own advisors warning about emotional dependence and minors getting in."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Top counterterrorism official quits over Iran war",
+        "t": "Joe Kent said Iran 'posed no imminent threat.'"
+       },
+       {
+        "h": "Arizona files criminal charges against Kalshi",
+        "t": "The first state to do so, calling it illegal gambling."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Polymarket bettors threatened a war reporter",
+        "t": "They wanted him to change a missile strike story so they could win a bet."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Kraft launches protein-packed PowerMac",
+        "t": "More than double the protein, to win back shoppers from better-for-you rivals."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "50%+: share of retail space now used by services",
+        "t": "Gyms and salons now outnumber stores that sell stuff, a first."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Bespoke",
+        "t": "Means 'made for a particular customer or user.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-19",
+    "label": "Issue of Mar 19",
+    "weekday": "Thu",
+    "top": "The Fed holds steady",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "March Madness is here. Friendly reminder: Ctrl + Tab switches browser tabs fast."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The Fed holds rates steady",
+        "t": "Rates stay at 3.5% to 3.75%, with just one cut penciled in for this year as the war clouds the outlook."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "WNBA stars just got paid",
+        "t": "A new deal reportedly quintuples average salaries to about $600,000 and lifts some past $1 million for the first time."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "An AI Val Kilmer will headline a movie",
+        "t": "With his family's blessing, after he died before filming."
+       },
+       {
+        "h": "The Oscars draw 17.86 million viewers",
+        "t": "The least-watched telecast since 2022."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Micron nearly triples its revenue",
+        "t": "Riding the memory-chip crunch."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "5: the dachshund's spot among top US dogs",
+        "t": "Its first time in the top five in over 20 years. Frenchies are still No. 1."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Posthumously",
+        "t": "Means 'after the death of the person in question.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-20",
+    "label": "Issue of Mar 20",
+    "weekday": "Fri",
+    "top": "Scrolling makes English-speaking countries sadder",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy first day of spring. Get ready for scooters on every sidewalk."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Scrolling is making the anglosphere sadder",
+        "t": "Finland tops the World Happiness Report again, while the US slipped to 23rd. Researchers point to heavy social media use."
+       },
+       {
+        "h": "Pentagon seeks $200 billion for the Iran war",
+        "t": "Congress would have to approve it."
+       }
+      ]
+     },
+     {
+      "icon": "🩺",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Generic Ozempic is coming to billions",
+        "t": "Novo's semaglutide patent expires in India and China, and generic prices could fall to about $15 a month."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "BTS is back from the army",
+        "t": "A free comeback show in Seoul streams on Netflix, kicking off a tour that could rival Taylor Swift's."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "MLB signs with Polymarket",
+        "t": "A multiyear deal reportedly worth up to $300 million."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$1.25 billion: Uber's bet on Rivian",
+        "t": "Part of a plan to deploy 50,000 robotaxis by 2031."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "About-face",
+        "t": "Means 'a reversal of attitude, behavior, or point of view.'"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-21",
+    "label": "Issue of Mar 21",
+    "weekday": "Sat",
+    "top": "Fears of oil shortages are starting to spread",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy World Poetry Day. You don't have to be well versed to celebrate."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Oil shortage fears spread",
+        "t": "Gas stations are closing in Laos and Cambodia, the Philippines went to four-day workweeks, and US gas is near $4 a gallon."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "CBS News cuts its radio division",
+        "t": "Part of Bari Weiss's overhaul, about 6% of staff."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Chuck Norris dies at 86",
+        "t": "The karate champ and Walker, Texas Ranger star."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Unilever in talks to sell its food arm to McCormick",
+        "t": "Hellmann's and friends are worth about $33 billion."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Chip smuggling charges crash Super Micro stock",
+        "t": "Its co-founder is accused of routing Nvidia AI chips to China, allegedly using a hair dryer to swap serial stickers. Shares fell 33%."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "A report claims to have unmasked Banksy"
+       },
+       {
+        "h": "Hulu canceled the Buffy reboot after the pilot was shot"
+       },
+       {
+        "h": "A dancing hot pot robot sent dishes flying"
+       },
+       {
+        "h": "Guinness has a pro touring the US teaching the perfect pour"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "Sate",
+        "t": "Means 'to fully appease.'"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-004",
   "title": "Drop #4: Mar 1 to 14, 2026",
   "start": "2026-03-01",

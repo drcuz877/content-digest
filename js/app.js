@@ -329,9 +329,9 @@
           el("ol", null,
             el("li", { text: "Each drop covers a stretch of days. Open Latest for the newest one, or the Archive for older ones." }),
             el("li", { text: "Every day is split into small cards, one per topic. Switch between Full bites and Quick scan (headlines only) at the top of a drop." }),
-            el("li", { text: "Press play in the bar at the bottom to hear the whole drop. Pick a speed from 1x to 2x and a voice. Switching voice keeps your place." }),
+            el("li", { text: "Press play in the bar at the bottom to hear the drop. Newer drops come with a two-host podcast episode of about half an hour; older drops have a short summary in your choice of voice. Pick a speed from 1x to 2x." }),
             el("li", { text: "Search looks through every drop right in your browser. Nothing is sent anywhere." })),
-          el("p", { class: "note", text: "Your voice, speed, and view choices are remembered on this device." })),
+          el("p", { class: "note", text: "Your speed, voice, and view choices are remembered on this device." })),
         el("section", { class: "card pad" },
           el("h2", { text: "What the icons mean" }),
           ul)));
@@ -385,8 +385,20 @@
     if (!dragging && isFinite(d) && d > 0) pSeek.value = String(Math.round(audio.currentTime / d * 1000));
     pSeek.setAttribute("aria-valuetext", fmt(audio.currentTime) + " of " + (isFinite(d) ? fmt(d) : "unknown"));
   }
+  function podcastOf(drop) { return drop && drop.audio && drop.audio.podcast ? drop.audio.podcast : null; }
+  function podLen(drop) {
+    var p = drop && drop.audio && drop.audio.podcast_seconds;
+    return p ? Math.round(p / 60) + " min" : "";
+  }
+  function setPlayerMode(drop) {
+    var pod = !!podcastOf(drop);
+    $("p-pod").hidden = !pod;
+    $("p-voice-wrap").hidden = pod;
+    $("p-len").textContent = pod && podLen(drop) ? "\u00b7 " + podLen(drop) : "";
+  }
   function loadVoice(keepPosition) {
-    var path = playerDropId && currentDrop && currentDrop.audio && currentDrop.audio[voice];
+    var pod = podcastOf(currentDrop);
+    var path = playerDropId && currentDrop && currentDrop.audio && (pod || currentDrop.audio[voice]);
     pMsg.textContent = "";
     if (!path) { audio.removeAttribute("src"); audio.load(); pMsg.textContent = "Audio is not available for this voice."; updateTime(); return; }
     var d = audio.duration;
@@ -412,7 +424,7 @@
   audio.addEventListener("play", setPlayLabel);
   audio.addEventListener("pause", setPlayLabel);
   audio.addEventListener("ended", setPlayLabel);
-  audio.addEventListener("error", function () { if (audio.getAttribute("src")) pMsg.textContent = "Could not load this audio. Try another voice."; });
+  audio.addEventListener("error", function () { if (audio.getAttribute("src")) pMsg.textContent = "Could not load this audio. Try reloading the page."; });
 
   pPlay.addEventListener("click", function () {
     if (audio.paused) { var p = audio.play(); if (p && p.catch) p.catch(function () { pMsg.textContent = "Playback was blocked. Press play again."; }); }
@@ -439,6 +451,7 @@
     playerEl.hidden = false;
     document.body.classList.add("has-player");
     sizePlayer();
+    setPlayerMode(drop);
     if (changed || !audio.getAttribute("src")) { audio.pause(); loadVoice(false); setPlayLabel(); }
   }
   function hidePlayer() {

@@ -65,7 +65,20 @@ def validate(drop, site, allow_missing_audio):
                 if not isinstance(b, dict) or not str(b.get("h", "")).strip():
                     fail(f"{ws}.bullets[{k}] needs an 'h' headline")
     audio = drop["audio"]
-    for v in VOICES:
+    if audio.get("podcast"):
+        p = audio["podcast"]
+        if not os.path.isfile(os.path.join(site, p)):
+            if allow_missing_audio:
+                print(f"WARNING: podcast file not found: {p}")
+            else:
+                fail(f"podcast file not found: {p}")
+        sec = audio.get("podcast_seconds")
+        if sec is not None and (not isinstance(sec, (int, float)) or sec <= 0):
+            fail("audio.podcast_seconds must be a positive number")
+        voices = [v for v in VOICES if audio.get(v)]
+    else:
+        voices = VOICES
+    for v in voices:
         p = audio.get(v)
         if not p:
             if allow_missing_audio:
@@ -76,6 +89,11 @@ def validate(drop, site, allow_missing_audio):
                 print(f"WARNING: audio file not found: {p}")
             else:
                 fail(f"audio file not found: {p}")
+    banned = ("b" + "rew", "mor" + "ning")  # spelled in pieces so this file stays clean
+    text = json.dumps(drop, ensure_ascii=False)
+    for bad in banned:
+        if re.search(r"\b" + bad, text, re.I):
+            fail(f"text contains a banned word ({bad[0]}...); see the style rules")
     blob = json.dumps(drop, ensure_ascii=False)
     if "\u2014" in blob:
         fail("text contains an em dash; rewrite it with a comma, colon, or period")
