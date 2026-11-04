@@ -430,8 +430,8 @@
     if (audio.paused) { var p = audio.play(); if (p && p.catch) p.catch(function () { pMsg.textContent = "Playback was blocked. Press play again."; }); }
     else audio.pause();
   });
-  $("p-back").addEventListener("click", function () { audio.currentTime = Math.max(0, audio.currentTime - 15); });
-  $("p-fwd").addEventListener("click", function () { if (isFinite(audio.duration)) audio.currentTime = Math.min(audio.duration, audio.currentTime + 15); });
+  $("p-back").addEventListener("click", function () { audio.currentTime = Math.max(0, audio.currentTime - 7); });
+  $("p-fwd").addEventListener("click", function () { if (isFinite(audio.duration)) audio.currentTime = Math.min(audio.duration, audio.currentTime + 7); });
   pSeek.addEventListener("pointerdown", function () { dragging = true; });
   pSeek.addEventListener("pointerup", function () { dragging = false; });
   pSeek.addEventListener("input", function () {
