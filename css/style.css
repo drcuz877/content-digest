@@ -166,7 +166,11 @@ h3{margin:0;font-size:1.1rem}
 @media (max-width:820px){
   .player{left:0}
   .play-btn{width:48px;height:48px}
-  .icon-btn.small{display:none}
+  .icon-btn.small{min-width:40px;padding:0 6px}
+  .player-row{gap:8px}
+  .pod-tag{padding:4px 8px}
+  #p-len{display:none}
+  .sel{min-width:64px}
   .seek-wrap{order:5;flex-basis:100%}
   .sel{flex:1}
   .sel.voice{flex:2}
