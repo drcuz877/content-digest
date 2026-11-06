@@ -1,5 +1,521 @@
 [
  {
+  "id": "drop-006",
+  "title": "Drop #6: Mar 22 to 28, 2026",
+  "start": "2026-03-22",
+  "end": "2026-03-28",
+  "intro": "One week, boiled down. Meta and YouTube lost in court twice, senators went after sports prediction markets, the NBA eyed Seattle and Vegas, and tech stocks slid into a correction.",
+  "spotlight": {
+   "icon": "🔢",
+   "value": "1.8M",
+   "label": "People the US added in a year",
+   "detail": "One of the slowest growth rates in history."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-006-podcast.mp3",
+   "podcast_seconds": 1618
+  },
+  "issues": [
+   {
+    "id": "2026-03-22",
+    "label": "Issue of Mar 22",
+    "weekday": "Sun",
+    "top": "Touching grass: the business of meeting people IRL",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: logging off and socializing in person, from dinner clubs to friend pitch decks."
+       }
+      ]
+     },
+     {
+      "icon": "🤝",
+      "name": "Sunday Theme: IRL Meetups",
+      "bullets": [
+       {
+        "h": "Dinner clubs woo dating app defectors",
+        "t": "Dinner Table Club, TimeLeft and Thursday host in-person singles events; Hinge funds IRL dating grants."
+       },
+       {
+        "h": "Meetup tries a comeback",
+        "t": "After WeWork and a sale to Bending Spoons, fees rose to $45 a month but new registrations grew 20%."
+       },
+       {
+        "h": "Quick hits",
+        "t": "Pitch decks for single friends, solo travel in groups (70%+ women), and the run club debate."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-23",
+    "label": "Issue of Mar 23",
+    "weekday": "Mon",
+    "top": "Rising gas prices spark new interest in EVs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Near Miss Day: 37 years since a half-mile-wide asteroid passed within 500,000 miles of Earth."
+       }
+      ]
+     },
+     {
+      "icon": "🚗",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Gas prices push buyers toward EVs",
+        "t": "The federal credit is gone, but dealer deals are steep: one buyer got a 2026 Equinox EV for $23,991, over 50% off sticker. Tesla plans 15,000 Semis by the end of 2026."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Walmart goes all digital on price tags",
+        "t": "All US stores switch to digital shelf labels by year end. Walmart says no surge pricing; some lawmakers want paper tags required."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$200 million: Cargill's AI meat-fleck haul",
+        "t": "AI scans carcasses for missed meat, recovering up to 0.5% more per animal across 11 billion pounds of beef a year."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Ovechkin hits 1,000 goals",
+        "t": "Only Wayne Gretzky reached the mark before him."
+       },
+       {
+        "h": "MLB season opens this week",
+        "t": "The Dodgers are favored to repeat."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Project Hail Mary opens big",
+        "t": "$80.5 million, Amazon MGM's biggest opening ever."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Iran threatens to fully close Hormuz",
+        "t": "If Trump follows through on threats to its power plants."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-24",
+    "label": "Issue of Mar 24",
+    "weekday": "Tue",
+    "top": "Senators move to ban sports prediction markets",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "MLB starts tomorrow night. Sunflower seed season is back."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Bipartisan bill targets sports prediction markets",
+        "t": "It would bar Kalshi and Polymarket from sports and casino contracts. Kalshi did 90% of NFL-season volume on sports and $2.67 billion in sports trades in one March Madness week."
+       },
+       {
+        "h": "March Madness ratings up",
+        "t": "Opening games drew 9.8 million viewers, up 6%."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Samsung fridge ads spark backlash",
+        "t": "Banner ads on $1,800+ Family Hub fridges; turning them off also kills the news and weather widget."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Corporate BS fans are worse at their jobs",
+        "t": "A Cornell study of 1,000+ workers found those most impressed by jargon scored lower on decision-making tests."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Larry Fink: AI could widen inequality",
+        "t": "The BlackRock CEO urged people to invest in top AI companies."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "DoorDash helps drivers with gas",
+        "t": "Extra pay for US and Canadian drivers to offset fuel prices."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "TotalEnergies drops US offshore wind",
+        "t": "It will exit nearly $1 billion in leases and invest in US oil and gas instead."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-25",
+    "label": "Issue of Mar 25",
+    "weekday": "Wed",
+    "top": "Private credit funds limit withdrawals",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Tolkien Reading Day, marking the day the One Ring was destroyed."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Private credit has a public freakout",
+        "t": "Apollo and Ares capped payouts after investors asked to cash out over 11% of shares. Moody's cut a KKR-linked fund to junk."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Report: 3,000 troops of the 82nd Airborne to the Middle East",
+        "t": "No decision on ground troops in Iran; Pakistan offered to mediate."
+       }
+      ]
+     },
+     {
+      "icon": "🔬",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "CERN moves antimatter by truck",
+        "t": "A 30-minute test drive with 92 antiprotons, a first step toward an eight-hour trip to Germany."
+       },
+       {
+        "h": "Zoox expands robotaxis",
+        "t": "Miami and Austin are next this year."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI shuts down Sora",
+        "t": "Months after launch, as it refocuses on business and coding."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Reality TV is shrinking",
+        "t": "Unscripted US premieres fell 15% last year and by a third since 2022."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Meta owes $375 million in New Mexico",
+        "t": "A jury found it failed to protect young users from predators."
+       },
+       {
+        "h": "Apple Maps will show ads this summer"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-26",
+    "label": "Issue of Mar 26",
+    "weekday": "Thu",
+    "top": "Meta and YouTube lose a landmark addiction trial",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Stellantis is ticketing employees who park cars from other automakers in the company lot."
+       }
+      ]
+     },
+     {
+      "icon": "⚖️",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Social media's Big Tobacco moment?",
+        "t": "A California jury found Meta and YouTube negligent in a bellwether addiction case; they owe $4.2 million and $1.8 million. Both will appeal. Section 230 did not shield them."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "NBA heads to Seattle and Las Vegas",
+        "t": "Owners voted to start vetting teams 31 and 32 for 2028-29, with fees of $7 to $10 billion each."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Fruit Love Island gets the boot",
+        "t": "The AI fruit parody hit 3.3 million followers before TikTok removed it."
+       }
+      ]
+     },
+     {
+      "icon": "📦",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Postage up 8%",
+        "t": "USPS cites rising fuel costs."
+       },
+       {
+        "h": "Labubu worries sink Pop Mart"
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump to visit Xi in May"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-27",
+    "label": "Issue of Mar 27",
+    "weekday": "Fri",
+    "top": "US population growth slows to a historic low",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Dodger Stadium is now Uniqlo Field at Dodger Stadium."
+       }
+      ]
+     },
+     {
+      "icon": "📊",
+      "name": "Big News",
+      "bullets": [
+       {
+        "h": "US adds just 1.8 million people",
+        "t": "Lower immigration drove the slowdown. Miami-Dade flipped to a 10,000-person drop, while the Southeast and Texas suburbs boomed."
+       }
+      ]
+     },
+     {
+      "icon": "📡",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "FCC halts approval of new foreign routers",
+        "t": "Existing models stay legal. TP-Link plans US manufacturing; Netgear shares rose."
+       }
+      ]
+     },
+     {
+      "icon": "⚾",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "DraftKings lets you bet on old pitches",
+        "t": "DK Replay uses anonymized historic at-bats, Oregon only for now."
+       },
+       {
+        "h": "IOC bars transgender women from female events",
+        "t": "Citing a policy aligned with a recent executive order."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$26 million turned down",
+        "t": "Kentucky farmers refused an AI company's data center offer, about 10x local land value."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI shelves erotic ChatGPT indefinitely"
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Netflix standard rises $2 to $19.99",
+        "t": "Plus a Jeopardy! spinoff for YouTube is in the works."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-28",
+    "label": "Issue of Mar 28",
+    "weekday": "Sat",
+    "top": "Nasdaq slides into correction",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Last weekend in March: stock up on allergy meds."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Tech drags the Nasdaq into correction",
+        "t": "Down 11% from its October peak. Microsoft is off 34% and having its worst quarter since 2008; Meta down 29%; Nvidia nearly 20%."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Rough first week for Disney's new CEO",
+        "t": "Josh D'Amaro faced a Bachelorette scandal, the end of a $1 billion Sora deal, and 1,000+ Epic Games layoffs."
+       }
+      ]
+     },
+     {
+      "icon": "⛳",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Tiger Woods arrested on suspicion of DUI",
+        "t": "After a rollover crash in Florida."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "SAVE plan winds down",
+        "t": "Seven million student loan borrowers must pick a new repayment option."
+       }
+      ]
+     },
+     {
+      "icon": "🎮",
+      "name": "Tech Bits",
+      "bullets": [
+       {
+        "h": "PS5 prices are going up"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-005",
   "title": "Drop #5: Mar 15 to 21, 2026",
   "start": "2026-03-15",
