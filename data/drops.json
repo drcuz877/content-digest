@@ -1,5 +1,578 @@
 [
  {
+  "id": "drop-007",
+  "title": "Drop #7: Mar 29 to Apr 4, 2026",
+  "start": "2026-03-29",
+  "end": "2026-04-04",
+  "intro": "One week, boiled down. Gas crossed four dollars, SpaceX filed for a record IPO, Lilly got a GLP-1 pill approved, Italy missed another World Cup, and summer travel got a lot more expensive.",
+  "spotlight": {
+   "icon": "🚀",
+   "value": "$75B",
+   "label": "SpaceX IPO raise target",
+   "detail": "At a $1.75 trillion valuation, per Bloomberg. Would smash the all-time IPO record."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-007-podcast.mp3",
+   "podcast_seconds": 1861
+  },
+  "issues": [
+   {
+    "id": "2026-03-29",
+    "label": "Issue of Mar 29",
+    "weekday": "Sun",
+    "top": "Event travel is the new boom town",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: sports, music, and pilgrimages powering local economies, plus Charted Territory and News You Can Use."
+       }
+      ]
+     },
+     {
+      "icon": "✈️",
+      "name": "Sunday Theme: Event Travel",
+      "bullets": [
+       {
+        "h": "Music and sports tourism boom",
+        "t": "Music tourism could top $9 billion by 2030. Sports tourism could pass $1 trillion. California hosts World Cup games, another Super Bowl, and the 2028 Olympics."
+       },
+       {
+        "h": "F1 keeps packing tracks",
+        "t": "$3.9 billion in revenue last year, up 14%. 2025 drew 6.7 million fans; 19 events sold out. Two Middle East races canceled, ~$200 million hit."
+       },
+       {
+        "h": "Quick hits",
+        "t": "Sturgis Motorcycle Rally draws ~500,000 to a town of 7,000. Religious tourism was nearly $290 billion in 2024, from Hajj to Kumbh Mela."
+       }
+      ]
+     },
+     {
+      "icon": "🗺️",
+      "name": "Charted Territory",
+      "bullets": [
+       {
+        "h": "A yearlong US holiday road trip, mapped",
+        "t": "Possum Drop in Tallapoosa, Mardi Gras, Loveland Sweetheart Festival, Reno's leprechaun crawl, Tulsa Juneteenth, Mount Rushmore July 4, then Leavenworth Oktoberfest, Anoka Halloween capital, Branson Veterans Day, Chicago Turkey Trot, and North Pole, New York."
+       }
+      ]
+     },
+     {
+      "icon": "📌",
+      "name": "News You Can Use",
+      "bullets": [
+       {
+        "h": "2026 events worth the trip",
+        "t": "San Marcos Fair (Apr-May), World Cup across US/Canada/Mexico (Jun-Jul, US vs Paraguay Jun 12 in LA), Edinburgh Fringe (Aug), Munich Oktoberfest (Sep-Oct), Thailand lantern festivals (Nov 24-25), Sydney New Year's Eve."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-30",
+    "label": "Issue of Mar 30",
+    "weekday": "Mon",
+    "top": "Iran war hits aluminum, Lilly bets on AI drugs",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A truck with 400,000 KitKats was stolen in Italy. Supply is fine: they were Formula 1 KitKats."
+       }
+      ]
+     },
+     {
+      "icon": "🏭",
+      "name": "Industrial",
+      "bullets": [
+       {
+        "h": "Iran hits Gulf aluminum plants",
+        "t": "Attacks damaged Emirates Global Aluminium and Alba. Middle East makes ~9% of global aluminum; prices up ~4% since the war began."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Eli Lilly's $2.75B AI drug deal",
+        "t": "Deal with Insilico Medicine; $115 million up front. Lilly gets exclusive rights to an Insilico GLP-1 for diabetes."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Houthis enter the Iran war",
+        "t": "Yemen's Houthis launched missiles at Israel. 2,500 Marines arrived in the region aboard the USS Tripoli."
+       },
+       {
+        "h": "US lets a Russian oil tanker reach Cuba",
+        "t": "Trump said Cuba has to survive."
+       },
+       {
+        "h": "Zillow Preview spreads",
+        "t": "29 brokerages now show pre-listings; rivals launched their own."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Chesney the kangaroo, 3 days on the hop",
+        "t": "Escaped a Wisconsin farm after dogs spooked him. Keeper walked ~37,000 steps a day; a drone found him unharmed."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Project Hail Mary stays No. 1",
+        "t": "Biggest Hollywood flick of the year so far."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "apparatus",
+        "t": "Material or equipment designed for a specific use."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-03-31",
+    "label": "Issue of Mar 31",
+    "weekday": "Tue",
+    "top": "Private assets may enter your 401(k)",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy 99th to William Daniels, aka Mr. Feeny."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Riskier options headed for 401(k)s",
+        "t": "Proposed rule would shield employers who add private assets. Critics note private credit turmoil and weaker recent returns."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Trump threatens Iran energy sites",
+        "t": "Unless Hormuz reopens soon, including electricity, oil wells, and Kharg Island."
+       },
+       {
+        "h": "Powell: oil shock likely won't force hikes",
+        "t": "Fed chair said energy shocks are usually short-lived."
+       },
+       {
+        "h": "Sysco to buy Jetro for $29 billion",
+        "t": "Restaurant Depot's 166-store cash-and-carry chain."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$10 million art heist in under 3 minutes",
+        "t": "Thieves took a Renoir, a Cézanne, and a Matisse from a museum outside Parma."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Women's Final Four set",
+        "t": "UConn, UCLA, Texas, and South Carolina, same four as last year."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "accolade",
+        "t": "An award or privilege granted as a special honor."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-01",
+    "label": "Issue of Apr 1",
+    "weekday": "Wed",
+    "top": "US gas hits $4 a gallon",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "April Fools'. Also, Apple turns 50."
+       }
+      ]
+     },
+     {
+      "icon": "⛽",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Gas averages $4.02 a gallon",
+        "t": "First time above $4 since 2022; up 35% since the war began. California hit $5.91. Strategic reserves, looser fuel rules, and driver rebates are in play."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Allbirds sells for $39 million",
+        "t": "Once valued at $4 billion on IPO day. Keeps two outlets; Ed Hardy owner buys the assets."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "McCormick buys Unilever foods for $45 billion",
+        "t": "Hellmann's and Knorr are ~70% of that food sales."
+       }
+      ]
+     },
+     {
+      "icon": "🩺",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Whoop hits a $10 billion valuation",
+        "t": "Raised $575 million; bookings up 103% last year."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Apple at 50",
+        "t": "$3.7 trillion market cap, 2.5 billion active devices, 166,000 employees."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Oracle starts AI-driven layoffs",
+        "t": "Thousands cut as it spends billions on data centers. CoreWeave jumped on a big AI infrastructure loan."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "nullified",
+        "t": "Made legally null and void; invalidated."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-02",
+    "label": "Issue of Apr 2",
+    "weekday": "Thu",
+    "top": "SpaceX files for the biggest IPO ever",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "April 2: you can believe the internet again."
+       }
+      ]
+     },
+     {
+      "icon": "🚀",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "SpaceX targets a $75 billion IPO",
+        "t": "At a $1.75 trillion valuation, per Bloomberg. Would top Saudi Aramco's $29 billion record. Up to 30% of shares may go to retail. xAI rides along."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Nike's China slump deepens",
+        "t": "Seventh straight quarterly sales drop there. Shares fell ~15% despite a North America bounce."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Lilly's Foundayo GLP-1 pill approved",
+        "t": "Second oral option after Wegovy. Analysts see ~$21 billion by 2030 vs $4 billion for Wegovy pill. Lilly has ~$1.5 billion of pills ready."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Is grad school worth it?",
+        "t": "AU study: pharmacy +68%, medicine +173%, law +41%, MBA +13%, clinical psych -5%."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Anthropic leaks Claude Code source",
+        "t": "Accidental leak of internal source for the popular coding tool."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Megan Thee Stallion back to Broadway",
+        "t": "Returns to Moulin Rouge after a mid-show hospitalization."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "pedagogy",
+        "t": "The method and practice of teaching."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-03",
+    "label": "Issue of Apr 3",
+    "weekday": "Fri",
+    "top": "Summer travel gets expensive; Tesla misses",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A quarter of 2026 is already gone."
+       }
+      ]
+     },
+     {
+      "icon": "🧳",
+      "name": "Travel",
+      "bullets": [
+       {
+        "h": "Summer trips look pricey",
+        "t": "Global airfares up 24% YoY. Transatlantic tickets +$200 in a month. United cuts ~5% of off-peak flights. Only 17% of Americans plan international trips."
+       }
+      ]
+     },
+     {
+      "icon": "🚗",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Tesla's soft quarter",
+        "t": "358k deliveries, undershot forecasts. Stock fell ~6% that day, ~20% YTD. Gas spike may help rivals' EVs."
+       }
+      ]
+     },
+     {
+      "icon": "⚽",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Italy misses a third straight World Cup",
+        "t": "Fell to Bosnia. Federation brass resign. First World Cup winner to miss three in a row."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI buys tech talk show TBPN",
+        "t": "First media foray."
+       },
+       {
+        "h": "Maine moves to ban new data centers",
+        "t": "Would be the first state, per the Journal."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Blue Owl caps private credit redemptions",
+        "t": "Latest firm to limit cashouts amid software-loan fears."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$1,200 barista bonuses",
+        "t": "Starbucks: up to $300 a quarter if stores hit goals; pay up 5% to 8%."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "procure",
+        "t": "To obtain something with care or effort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-04",
+    "label": "Issue of Apr 4",
+    "weekday": "Sat",
+    "top": "Jobs rebound; a $2.2T budget ask",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Tax Day is April 15. Cookie if you're done."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Trump seeks a $2.2 trillion budget",
+        "t": "$1.5 trillion for defense (+42%). Cuts hit SBA, EPA, HHS, and NASA. Redirects $15 billion from clean energy toward fossil fuels and AI supercomputers."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US adds 178,000 jobs in March",
+        "t": "Unemployment 4.3%. Healthcare led hiring."
+       },
+       {
+        "h": "Crew rescued after jet downed over Iran",
+        "t": "One of two F-15E crew members recovered; a second US plane, an A-10, was also shot down."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Jonathan the tortoise is fine",
+        "t": "Hoax death reports were wrong. He's 193."
+       },
+       {
+        "h": "Meta tests premium Instagram",
+        "t": "Includes viewing stories without the poster knowing."
+       },
+       {
+        "h": "MLB robot umps shrink listed heights",
+        "t": "League revised dozens of player heights for the strike zone."
+       },
+       {
+        "h": "Costco's 10-pound chocolate bunny",
+        "t": "Pete the Bunny. Bring a hammer."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "confection",
+        "t": "A dish made with sweet ingredients."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-006",
   "title": "Drop #6: Mar 22 to 28, 2026",
   "start": "2026-03-22",
