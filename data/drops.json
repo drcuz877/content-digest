@@ -1,5 +1,554 @@
 [
  {
+  "id": "drop-008",
+  "title": "Drop #8: Apr 5 to 11, 2026",
+  "start": "2026-04-05",
+  "end": "2026-04-11",
+  "intro": "One week, boiled down. A shaky Iran ceasefire, an AI model that spooked the banks, Meta's new superintelligence play, Amazon's $200 billion AI bet, and two new college basketball champions.",
+  "spotlight": {
+   "icon": "🤖",
+   "value": "~40",
+   "label": "Organizations given Claude Mythos",
+   "detail": "Anthropic says the cyber-capable model is too powerful for a full public release."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-008-podcast.mp3",
+   "podcast_seconds": 1533
+  },
+  "issues": [
+   {
+    "id": "2026-04-05",
+    "label": "Issue of Apr 5",
+    "weekday": "Sun",
+    "top": "The business of pretending to be someone else",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: the money behind faux Elvises, Ben Franklins, and Disney princesses. Kept bite-sized."
+       }
+      ]
+     },
+     {
+      "icon": "🎭",
+      "name": "Sunday Theme: Impersonators",
+      "bullets": [
+       {
+        "h": "Celebrity lookalikes are a real business",
+        "t": "Top impersonators can earn up to $129,000 a year. A-list lookalikes get $500 to $10,000 per corporate gig; Pink Floyd tribute Brit Floyd asks $35,000 to $50,000. Estates push back: Johnny Cash's estate sued Coca-Cola under Tennessee's Elvis Act."
+       },
+       {
+        "h": "Princess parties and the 250th",
+        "t": "Hired princesses boomed after the pandemic; one Indiana company charges $250 an hour and dodges Disney with names like Tower Princess. A full-time Ben Franklin gets 5 to 10 inquiries a day and charges $1,776 per keynote."
+       },
+       {
+        "h": "Quick hits",
+        "t": "China has replica landmarks from the Colosseum to the Eiffel Tower. On Cameo, the most impersonated figure is Donald Trump (avg $78), then Elvis, Spider-Man, Jack Sparrow, and Lady Gaga."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-06",
+    "label": "Issue of Apr 6",
+    "weekday": "Mon",
+    "top": "US plastics makers win as Hormuz stays shut",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Malcolm in the Middle reboot is here, but Dewey turned down buckets of money to keep studying Dickens."
+       }
+      ]
+     },
+     {
+      "icon": "🏭",
+      "name": "Industrial",
+      "bullets": [
+       {
+        "h": "US plastics makers soar",
+        "t": "With the Strait of Hormuz all but closed, US chemical firms using cheap natural gas are running flat out. Dow raised polyethylene prices 30 cents a pound; LyondellBasell stock is up 84% this year. Toy and packaging makers feel the squeeze."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "UCLA women win first NCAA title",
+        "t": "Beat South Carolina 79 to 51. First title for coach Cori Close, a longtime John Wooden mentee."
+       },
+       {
+        "h": "Women's sports money keeps climbing",
+        "t": "Team investments up ~227% a year since 2022, per McKinsey. Revenue could hit ~$2.5 billion by 2030, growing about triple the rate of men's sports, but still under 2% of the US market. A record 63,000 fans saw an NWSL game; the PWHL sold out Madison Square Garden."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Daring rescue of downed airman",
+        "t": "The missing F-15E weapons officer climbed a 7,000-foot ridge and hid in a crevice before a SEAL Team 6-led rescue with 100 special operators."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "44 years",
+        "t": "The median US home is a record 44 years old. Structural repair costs rose ~14% in real terms from 2022 to 2024."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Writers Guild reaches tentative deal",
+        "t": "About a month before the current contract expires."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "scoff",
+        "t": "To treat with derision."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-07",
+    "label": "Issue of Apr 7",
+    "weekday": "Tue",
+    "top": "OpenAI's playbook for a superintelligence economy",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A Sunday special on investing is in the works. Pitch: your investing philosophy in one sentence."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI's superintelligence policy blueprint",
+        "t": "Ideas include incentives for a four-day workweek, lower taxes on workers with AI-boom companies funding Social Security and SNAP, and a public wealth fund like Alaska's oil fund. Also more government help managing AI risks."
+       },
+       {
+        "h": "Claude Code pricing shift",
+        "t": "Anthropic plans to charge extra to use OpenClaw and other third-party tools."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Michigan wins the men's title",
+        "t": "Beat UConn 69 to 63. First title since 1989 and UConn's first-ever title game loss."
+       },
+       {
+        "h": "Angel Reese traded to Atlanta",
+        "t": "The Sky get two first-round picks."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Brands flee a festival over Ye",
+        "t": "Pepsi, Diageo, AB InBev, Rockstar, and PayPal pulled back from London's Wireless Festival after Ye was named headliner."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Phone-free dining spreads",
+        "t": "Bars and restaurants in at least 11 states restrict phones. Some Chick-fil-A spots offer free ice cream to hand yours over."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Dimon's warning",
+        "t": "JPMorgan's CEO called creeping inflation a possible skunk at the party."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "moratorium",
+        "t": "A temporary prohibition of an activity."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-08",
+    "label": "Issue of Apr 8",
+    "weekday": "Wed",
+    "top": "Data center backlash escalates; two-week ceasefire",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Unhappy with the NBA dunk contest, Shaq is launching his own pro dunk league."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "The fight over data centers turns ugly",
+        "t": "Shots were fired at an Indianapolis councilor's home after he backed a data center; a note read No Data Centers. Maine is set to pause centers over 20 megawatts, nine states weigh statewide bans, and South Dakota and Wisconsin rejected them."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Medvi: billion-dollar startup, red flags",
+        "t": "The AI-run GLP-1 telehealth firm expects $1.8 billion in sales with 2 employees. Reports flag fake before-and-after photos, AI testimonials, spam suits, and an FDA warning letter."
+       },
+       {
+        "h": "Anthropic's powerful new model",
+        "t": "Apple, Amazon, and Microsoft get early access to prep for cyberattacks."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Google AI Overviews: ~90% accurate",
+        "t": "Sounds good, but that's tens of millions of wrong answers an hour. Over half of accurate answers cited sources that didn't support them; Facebook and Reddit ranked second and fourth."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Two-week Iran ceasefire",
+        "t": "Brokered by Pakistan, tied to reopening the Strait of Hormuz, about 90 minutes before Trump's deadline."
+       },
+       {
+        "h": "Ackman bids for Universal Music",
+        "t": "Pershing Square offers about $64.4 billion."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Upper middle class is now the biggest group",
+        "t": "31% of families in 2024 vs 10% in 1979, per AEI. Near-poverty share fell below 19%."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "rudimentary",
+        "t": "Limited to basic principles; of a primitive kind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-09",
+    "label": "Issue of Apr 9",
+    "weekday": "Thu",
+    "top": "Relief rally, shaky truce, Meta's new AI",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "RIP Jim Whittaker, REI's first full-time employee and the first American to summit Everest, at 97."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Meta launches Muse Spark",
+        "t": "First model from Meta Superintelligence Labs, led by Alexandr Wang. Internal benchmarks beat Grok on most metrics and Gemini on some, competitive with OpenAI and Anthropic."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "NYT names a Satoshi suspect",
+        "t": "It pointed to British cryptographer Adam Back, narrowing 34,000 suspects to one. Back says they have the wrong guy. Satoshi's wallet holds an estimated $78 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Ceasefire wobbles",
+        "t": "Oil fell well below $100 on the truce, but Israeli strikes on Lebanon and doubts about Hormuz reopening made it look brittle."
+       },
+       {
+        "h": "Fed in wait-and-see mode",
+        "t": "March minutes still point to one rate cut this year."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Levi's gets its groove back",
+        "t": "Revenue up 14%; direct-to-consumer topped half of sales for the first time. Sales of the 517 jean jumped 25% after the Love Story series."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "A 7-foot statue for a hero rat",
+        "t": "Magawa sniffed out 100 land mines and cleared 1.52 million square feet in Cambodia. Now he has a monument."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "perdurable",
+        "t": "Very durable."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-10",
+    "label": "Issue of Apr 10",
+    "weekday": "Fri",
+    "top": "Iran war's lasting costs; Amazon goes all in on AI",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Iced coffee season is officially open."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "The war's long tail",
+        "t": "Iran is charging some ships $2 million to transit Hormuz; traffic is under 10% of prewar. Oil may stay elevated through year end, fertilizer prices are rising, and the IMF will trim its 3.3% global growth forecast."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Amazon: not a hunch",
+        "t": "Jassy defends roughly $200 billion in 2026 capex on AI, chips, robotics, and satellites, expecting payback starting next year."
+       },
+       {
+        "h": "Gen Z sours on AI",
+        "t": "Gallup: angry rose from 22% to 31%; excited fell from 36% to 22%; hopeful from 27% to 18%."
+       }
+      ]
+     },
+     {
+      "icon": "⛳",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "DeChambeau's 3D-printed iron",
+        "t": "The Scientist got USGA approval for a self-designed 5-iron at the Masters, then triple bogeyed the 11th in Round 1."
+       },
+       {
+        "h": "DOJ probes NFL TV deals",
+        "t": "Looking at whether the league's rights maze hurts fans."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Disney plans up to 1,000 layoffs",
+        "t": "New CEO Josh D'Amaro's first big move, mostly marketing."
+       },
+       {
+        "h": "US fertility rate hits a record low",
+        "t": "Down ~1% last year and nearly 20% in two decades."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "spurious",
+        "t": "False, inauthentic, or contrived."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-11",
+    "label": "Issue of Apr 11",
+    "weekday": "Sat",
+    "top": "Anthropic's Mythos spooks the banks",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Taylor Swift and Travis Kelce save-the-dates are out, reportedly for NYC over July 4th. A Ben Franklin reenactor to officiate, please."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Claude Mythos alarms Washington",
+        "t": "Powell and Bessent met bank CEOs after Anthropic's limited release to ~40 organizations. Humans find ~100 critical flaws a year; Mythos can find thousands. Short term edge to attackers, then defenders."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Inflation jumps to 3.3%",
+        "t": "Highest in two years, driven by gas. Core rose just 0.2%."
+       },
+       {
+        "h": "Peace talks in Pakistan",
+        "t": "JD Vance leads the US team; Iran set preconditions."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Businesses aren't fleeing NYC",
+        "t": "Office vacancy fell to 13.5% as AI firms leased up, per JLL, despite tax fears under Mayor Mamdani."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "A human-only Slack channel",
+        "t": "An AI startup's 20 real employees hide from their AI coworkers."
+       },
+       {
+        "h": "Hedgehog-friendly lawns",
+        "t": "German mayors want nighttime bans on robot mowers."
+       },
+       {
+        "h": "Michael J. Fox is fine",
+        "t": "CNN apologized for an erroneous memorial piece."
+       },
+       {
+        "h": "Gas station speakeasy",
+        "t": "Lakeville, Minnesota's hottest bar is behind a gas station."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "deft",
+        "t": "Characterized by facility and skill."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-007",
   "title": "Drop #7: Mar 29 to Apr 4, 2026",
   "start": "2026-03-29",
