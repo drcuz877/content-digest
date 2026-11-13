@@ -1,5 +1,638 @@
 [
  {
+  "id": "drop-009",
+  "title": "Drop #9: Apr 12 to 18, 2026",
+  "start": "2026-04-12",
+  "end": "2026-04-18",
+  "intro": "One week, boiled down. A Hormuz blockade then a reopening, a shoe company turned AI company, an AI Zuckerberg, peptides heading for an FDA panel, and a record price for the Padres.",
+  "spotlight": {
+   "icon": "👟",
+   "value": "876%",
+   "label": "Allbirds' one-day stock jump",
+   "detail": "After the shoe brand said it would pivot to renting out AI computing power."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-009-podcast.mp3",
+   "podcast_seconds": 1705
+  },
+  "issues": [
+   {
+    "id": "2026-04-12",
+    "label": "Issue of Apr 12",
+    "weekday": "Sun",
+    "top": "How Gen Z is playing the market",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: next-gen investing, from finfluencers to prediction markets. Kept bite-sized."
+       }
+      ]
+     },
+     {
+      "icon": "📈",
+      "name": "Sunday Theme: Investing",
+      "bullets": [
+       {
+        "h": "The kids started early",
+        "t": "26-year-olds putting money into investment accounts (not counting 401(k)s) jumped from 8% in 2015 to 40% as of May 2025, per JPMorgan Chase Institute. 30% of Gen Z began investing before entering the workforce, vs 6% of boomers."
+       },
+       {
+        "h": "Here come the finfluencers",
+        "t": "Almost 70% of Gen Z say an online financial trend influenced them, and social media is the main reason 55% started investing. Yet in a Schwab study they ranked social media the least trustworthy source for money tips."
+       },
+       {
+        "h": "Investing starts to look like a casino",
+        "t": "17% of US investors owned crypto in 2025, up from 2% in 2018 (Gallup). About a third of Gen Z have invested or plan to invest in sports betting or prediction markets this year. Retail investors now make up 40% to 50% of options trading."
+       },
+       {
+        "h": "Day trading reality check",
+        "t": "Most day traders lose money; nearly a quarter report moderate to extremely severe stress. Bonus glossary: buy the dip, sell the rip."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-13",
+    "label": "Issue of Apr 13",
+    "weekday": "Mon",
+    "top": "US blockades Hormuz after peace talks fail",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Hormuz blockade, Hungary's election, and why Mississippi ran out of liquor."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "US to blockade the Strait of Hormuz",
+        "t": "After US and Iran talks in Pakistan collapsed, the US Navy began blockading all Iranian ports and warned it would interdict ships that paid Iran's tolls (some paid $2 million). The US also plans to clear mines with underwater drones."
+       },
+       {
+        "h": "Orbán loses in Hungary",
+        "t": "After 16 years in power, Viktor Orbán conceded to Péter Magyar, who has pledged anti-corruption reforms."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Rory repeats at Augusta",
+        "t": "Rory McIlroy won the Masters again, the fourth golfer ever to win it two years in a row."
+       },
+       {
+        "h": "A historic WNBA draft",
+        "t": "Two new franchises and a new 12-player roster rule. All six UCLA seniors were projected to go in the first two rounds, a first for any college program."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Mississippi's liquor drought",
+        "t": "The state's only wholesale liquor warehouse, run by Ruan, closed in January for inventory, ripped out conveyor belts, and fell 200,000 backorders behind. Some stores' best month was Dry January. A new warehouse won't open until 2027."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "12,000 recordings",
+        "t": "Bollywood legend Asha Bhosle, the Guinness record holder as most recorded artist, died at 92. Her count: 12,000 recordings in 20 languages."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Compute crunch",
+        "t": "The AI gold rush has companies scrambling for computing power, creating a capacity crunch."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "cipher",
+        "t": "A nonentity."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-14",
+    "label": "Issue of Apr 14",
+    "weekday": "Tue",
+    "top": "Meta builds an AI Zuckerberg",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Day one of the Hormuz blockade, and Trump says Iran reached out about a deal."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Meta is making an AI Zuck",
+        "t": "A photorealistic AI Mark Zuckerberg, trained on his mannerisms, tone, and public statements, is a company priority so employees can feel more connected to the CEO, per the FT. Separate from Meta's CEO agent project. Meta also added $21 billion in AI cloud spend with CoreWeave."
+       },
+       {
+        "h": "Altman attack suspect",
+        "t": "The suspect in a Molotov cocktail attack on Sam Altman's home was opposed to AI and had a list of other tech CEOs, per court documents."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Hollywood objects to Paramount-Warner",
+        "t": "Over 1,000 creators, including Ben Stiller, Joaquin Phoenix, and Kristen Stewart, signed a letter opposing the $111 billion deal, saying it would leave just four major US studios. Paramount says it will release at least 30 films a year."
+       },
+       {
+        "h": "Rock Hall class",
+        "t": "Oasis, Billy Idol, Phil Collins, and Wu-Tang Clan are in."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Goldman's record quarter didn't impress",
+        "t": "Profit jumped 19% to $5.63 billion, its second-best quarter ever, but the stock fell nearly 2% on a drop in bond trading."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "McDonald's goes neon",
+        "t": "Energy drinks, refreshers, and dirty sodas (like Dirty Dr Pepper) are coming to US locations later this year, priced below Starbucks and Sonic. Drinks carry higher margins than food."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "Home sales slump",
+        "t": "Existing-home sales fell in March to their slowest pace in nine months."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "The $165 billion annoyance economy",
+        "t": "Spam, robocalls, hidden fees, and hard-to-cancel subscriptions add up to $165 billion, per a new report. Companies that make canceling hard earn 14% to 200% more revenue."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "persevere",
+        "t": "To persist in spite of opposition or discouragement."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-15",
+    "label": "Issue of Apr 15",
+    "weekday": "Wed",
+    "top": "Tax Day: is everyone fudging a home office?",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Tax Day. Ancient Rome taxed urine, Britain taxed men's hats from 1784 to 1811, and many German towns tax dogs."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Fewer auditors, bolder filers",
+        "t": "The IRS went from 102,000 employees to about 74,000 in 2025, and audits hit a historic low of 497,541. Yale's Budget Lab says the cuts save about $46 billion but could cost $643 billion in revenue. The average refund is up 11% to $3,462."
+       },
+       {
+        "h": "JPMorgan's big quarter",
+        "t": "Revenue grew 10% to nearly $50 billion with record trading fees and M&A advising up 82%. Citi beat too; Wells Fargo missed."
+       },
+       {
+        "h": "Richest Fed chair ever?",
+        "t": "Nominee Kevin Warsh is worth $135 million to $226 million, vs Jerome Powell's $19 million to $75 million."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Israel and Lebanon talk",
+        "t": "Their first direct talks in more than 30 years, held in Washington. Citadel's Ken Griffin warned a recession is inevitable if Hormuz stays closed for six to 12 months."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Publishers block the Wayback Machine",
+        "t": "23 news outlets, including USA Today and the New York Times, are among 241 sites blocking the Internet Archive's crawler to keep AI companies from training on old snapshots."
+       },
+       {
+        "h": "Grok still making deepfakes",
+        "t": "An NBC News review found Grok still generating sexualized deepfakes without consent."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Amazon buys Globalstar",
+        "t": "$11.6 billion to expand its Leo satellite internet and compete with Starlink."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Dolly reigns",
+        "t": "Dolly Parton has 70% favorability and 5% unfavorable, a net +65, far ahead of Barack Obama (+14) and Volodymyr Zelensky (+12)."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Movies and opera",
+        "t": "Netflix is mulling more theatrical releases, and the Royal Ballet and Opera says Timothée Chalamet's critique actually boosted opera ticket sales."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "municipalities",
+        "t": "Defined areas, like cities or towns, with their own local governments."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-16",
+    "label": "Issue of Apr 16",
+    "weekday": "Thu",
+    "top": "A shoe company is now an AI company",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The president of SantaCon was arrested, accused of stealing more than $1 million in charity ticket sales."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Allbirds pivots to AI compute",
+        "t": "The struggling shoe brand plans to raise $50 million, rename itself NewBirdAI, and lease GPUs to AI companies. The stock jumped 876% to over $24 at its peak, then fell more than 35% the next day. For scale, CoreWeave plans to spend up to $35 billion this year."
+       },
+       {
+        "h": "Snap cuts 16%",
+        "t": "About 1,000 jobs, with AI agents already writing 65% of its code. Expected savings: $500 million in the second half."
+       },
+       {
+        "h": "Starbucks inside ChatGPT",
+        "t": "The chain is testing an app within ChatGPT."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Peptides may get easier to buy",
+        "t": "The FDA will convene a panel in July on easing limits for seven injectable peptides touted for muscle, inflammation, and skin, including BPC-157. RFK Jr. supports them. Little research backs the claims, and the gray market has risks like contamination and wrong doses."
+       }
+      ]
+     },
+     {
+      "icon": "⛳",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "LIV Golf on the brink",
+        "t": "Saudi Arabia's PIF, which has put about $5 billion into LIV, was reportedly near pulling its funding. LIV's CEO told staff the season goes on as planned."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Live Nation ruled a monopoly",
+        "t": "A federal jury found the Ticketmaster owner illegally monopolized concert ticket sales; states may seek a breakup."
+       },
+       {
+        "h": "Trump vs Powell, again",
+        "t": "Powell's chair term ends May 15. Trump threatened to fire him if he stays as a governor; Warsh's confirmation hearing is set for Tuesday."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "5% to 8%",
+        "t": "Pass rate for the three-stage test to become an exchange coffee grader. California's bar exam pass rate: 64%."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "latency",
+        "t": "The amount of delay in a system."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-17",
+    "label": "Issue of Apr 17",
+    "weekday": "Fri",
+    "top": "The energy crisis reaches Europe's fuel tanks",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "National Haiku Day: readers were asked for haiku about gas prices."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Europe's jet fuel runs low",
+        "t": "The IEA chief says Europe has maybe six weeks of jet fuel left and called it the largest energy crisis ever. Jet fuel costs have roughly doubled since the war began; the US is the top net exporter."
+       },
+       {
+        "h": "Israel and Lebanon agree to a 10-day ceasefire",
+        "t": "Announced by Trump after talks in Washington. US-Iran talks may get a second round."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Claude Opus 4.7 arrives",
+        "t": "Anthropic's best public model, but less capable than the restricted Claude Mythos Preview. The White House reportedly wants agencies using Mythos."
+       }
+      ]
+     },
+     {
+      "icon": "⚽",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "World Cup train sticker shock",
+        "t": "NJ Transit plans to charge about $150 round trip from Penn Station to MetLife Stadium, vs the usual $12.90. Some World Cup seats are going for $10,000."
+       }
+      ]
+     },
+     {
+      "icon": "🏠",
+      "name": "Real Estate",
+      "bullets": [
+       {
+        "h": "NYC's pied-à-terre tax",
+        "t": "A proposed tax on second homes worth over $5 million would hit about 13,000 homes; the state says at least $500 million a year."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "PepsiCo's price cuts pay off",
+        "t": "Revenue rose 8.5% to $19.4 billion after cutting prices on Lay's and Doritos by up to 15%. Gatorade is also rebranding beyond athletes."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "About 1 in 5 Cybertrucks",
+        "t": "SpaceX bought nearly one in five Cybertrucks Tesla sold in Q4, likely over $100 million. Without Musk-company buyers, sales would have fallen 51%."
+       }
+      ]
+     },
+     {
+      "icon": "🩺",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Tylenol and autism",
+        "t": "New research found taking Tylenol in pregnancy has no effect on children developing autism."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Hastings exits; Maverick returns",
+        "t": "Reed Hastings is leaving Netflix's board, and Top Gun 3 is in the works with Tom Cruise."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "tenuous",
+        "t": "Weak, insubstantial, not strong or secure."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-18",
+    "label": "Issue of Apr 18",
+    "weekday": "Sat",
+    "top": "Iran declares Hormuz open, for now",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "On this day in 1930, the BBC announced there was no news and played 15 minutes of piano music."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Hormuz reopens, sort of",
+        "t": "Iran opened the strait to commercial shipping after the Israel-Lebanon truce. Oil fell as much as 13%, below $90; about 135 million barrels sit in stranded tankers. The US blockade continues, and Iran threatened to close the strait again."
+       },
+       {
+        "h": "Chevron wins at the Supreme Court",
+        "t": "An 8 to 0 ruling lets it move a Louisiana coastal erosion suit to federal court."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Anthropic goes to the White House",
+        "t": "Dario Amodei met Susie Wiles and Scott Bessent, despite Anthropic suing the Pentagon. Both sides called it productive."
+       },
+       {
+        "h": "Meta and Cerebras",
+        "t": "Meta plans to cut about 10% of staff, starting with 8,000 jobs; AI chipmaker Cerebras filed to go public."
+       }
+      ]
+     },
+     {
+      "icon": "⚾",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Padres near a record sale",
+        "t": "About $3.9 billion to José E. Feliciano and Kwanza Jones, the highest MLB valuation ever, topping the Mets' $2.4 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Goop Kitchen heads to NYC",
+        "t": "Gwyneth Paltrow's gluten-free takeout: 14 locations, 40,000 customers a week, sales up 61% in FY2025. Three Manhattan ghost kitchens open Monday."
+       }
+      ]
+     },
+     {
+      "icon": "🚗",
+      "name": "Auto",
+      "bullets": [
+       {
+        "h": "Big Ford recall",
+        "t": "Nearly 1.4 million pickup trucks recalled over a gear shift issue."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Odds and ends",
+        "t": "52% of US men aged 18 to 49 have an online sports betting account. Short experimental films may fight brainrot. An umpire's stomach trouble delayed a Royals-Tigers game. A novelist turned down a $175,000 prize to skip the promo tour. Seres patented an in-car toilet."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "alleviated",
+        "t": "Made less severe."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-008",
   "title": "Drop #8: Apr 5 to 11, 2026",
   "start": "2026-04-05",
