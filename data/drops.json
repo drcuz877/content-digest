@@ -1,5 +1,612 @@
 [
  {
+  "id": "drop-010",
+  "title": "Drop #10: Apr 19 to 25, 2026",
+  "start": "2026-04-19",
+  "end": "2026-04-25",
+  "intro": "One week, boiled down. Tim Cook steps aside at Apple, a robot outruns every human ever, Meta tracks keystrokes, Anthropic lands up to $65 billion, Musk and Altman head to court, and protein is in literally everything.",
+  "spotlight": {
+   "icon": "🤖",
+   "value": "50:26",
+   "label": "A robot's half marathon time",
+   "detail": "About seven minutes faster than the human world record."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-010-podcast.mp3",
+   "podcast_seconds": 1844
+  },
+  "issues": [
+   {
+    "id": "2026-04-19",
+    "label": "Issue of Apr 19",
+    "weekday": "Sun",
+    "top": "Protein is in everything now",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: the business of protein, from Doritos Protein to competitive meat judging. Right in the fitness and dieting lane, so it gets the full treatment."
+       }
+      ]
+     },
+     {
+      "icon": "💪",
+      "name": "Sunday Theme: Protein",
+      "bullets": [
+       {
+        "h": "The GLP-1 connection",
+        "t": "12% of Americans (about 30 million) took weight loss drugs in 2025, up from 6% in 2024 and 2.9% in 2019. Meanwhile 71% say they've upped their protein, vs 48% six years earlier."
+       },
+       {
+        "h": "Brands pile in",
+        "t": "General Mills did $100 million in US protein cereal sales in fiscal 2024. Protein snacks are growing 3x faster than snacking overall. 46% of GLP-1 users are more likely to buy a frozen food if it's high protein. The global market ($56 billion) could top $100 billion by 2034."
+       },
+       {
+        "h": "Beef gets bougie",
+        "t": "Cattle herds hit record lows, wholesale beef rose 13% in February, and ground beef hit $6.75/lb in January (from $5.03 two years earlier). Shoppers trade down to sirloin or chicken, which is 30% to 40% cheaper. Tyson chicken sales up 3.7%, beef down 7.3%."
+       },
+       {
+        "h": "How much do you actually need?",
+        "t": "Old US guidance: 0.8 g per kg of body weight (0.36 g/lb). New 2026 guidance: 1.2 to 1.6 g/kg (0.55 to 0.73 g/lb), best suited to strength trainers, people over 65, or those losing weight on GLP-1s. Myth busted: a Mayo Clinic dietitian says anything above 0.9 g/lb is excessive, and plant protein isn't really \"incomplete\"."
+       },
+       {
+        "h": "Picking a powder",
+        "t": "Whey and casein (from milk) are complete proteins; collagen peptides lack tryptophan but help joints, hair and nails. Casein is slow digesting, so take it before bed. Plant powders blend soy, pea, hemp and rice. Heads up: lead has turned up in some powders, so check Consumer Reports' safer picks."
+       },
+       {
+        "h": "Wait, what? Meat judging",
+        "t": "Intercollegiate meat judging dates to 1926: lab coats, hard hats, carcasses graded by eye in a giant cooler. Texas schools dominate, and a Texas Tech alum helped invent Lunchables."
+       }
+      ]
+     },
+     {
+      "icon": "📌",
+      "name": "News You Can Use",
+      "bullets": [
+       {
+        "h": "Surprise protein foods",
+        "t": "Clear protein water (20 g), Thomas' bagels (21 g), protein ramen (up to 28 g), Starbucks protein drinks (27 to 36 g), Doritos Protein and Pop-Tarts Protein (10 g each)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-20",
+    "label": "Issue of Apr 20",
+    "weekday": "Mon",
+    "top": "Robots win a half marathon; Hormuz mixed messages",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A Temecula, CA couple's doorbell camera caught a hot air balloon with a dozen strangers making an emergency landing in their yard."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Hormuz whiplash",
+        "t": "Iran declared the strait open, the US kept its blockade, the IRGC reversed course, and the US Navy seized the Iranian cargo ship Touska after six hours of radio warnings. Iran called it piracy."
+       },
+       {
+        "h": "Tariff refund portal opens",
+        "t": "Businesses that paid the struck-down tariffs can now file via the CAPE portal, but refunds may take months or years. Some hedge funds are buying up claims."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "A robot beat every human ever",
+        "t": "At Beijing's human-and-robot half marathon, Honor's autonomous robot Lightning finished in 50:26, beating the human world record of 57:20 set last month. Robot teams jumped nearly 500%, and the winner was almost two hours faster than last year's."
+       },
+       {
+        "h": "NSA uses Mythos",
+        "t": "The NSA is using Anthropic's Mythos Preview despite the Pentagon labeling Anthropic a supply chain risk."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Rain on your campus tour",
+        "t": "College applications drop 8.3% when it rains during the visit, 10.1% when it's unusually hot, 5.9% when cold, and 4.9% when cloudy, per Amherst researchers."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Eddie Murphy honored",
+        "t": "He received the AFI Life Achievement Award."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "interstice",
+        "t": "A break in time between events."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-21",
+    "label": "Issue of Apr 21",
+    "weekday": "Tue",
+    "top": "Tim Cook steps down as Apple CEO",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A hungry hippo horror movie trailer dropped, inspiring pitches like Candy Land: Escape from Mr. Mint."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Tim Cook hands Apple to John Ternus",
+        "t": "Cook becomes executive chairman on Sept. 1; hardware chief John Ternus becomes CEO. Apple's value grew about 24x under Cook."
+       },
+       {
+        "h": "The Onion wants Infowars",
+        "t": "It's asking a bankruptcy judge to let it license the site for $81,000 a month and run it as a parody."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Amazon's Anthropic megadeal",
+        "t": "Amazon will invest up to $25 billion in Anthropic, which commits to spend more than $100 billion on AWS over a decade."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "mRNA vaccine vs pancreatic cancer",
+        "t": "7 of 16 trial patients who got personalized mRNA vaccines responded and are alive six years later (typical five-year survival: 13%). A larger Phase 2 trial is underway."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Wear the boss's face",
+        "t": "Nvidia's conference sold a $178 Jensen Huang sweater, Palantir a $75 Alex Karp tee, and Anduril sold out of $79 Palmer Luckey style Hawaiian shirts."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Boston repeat",
+        "t": "Kenya's John Korir (with a course record) and Sharon Lokedi repeated as Boston Marathon champions."
+       }
+      ]
+     },
+     {
+      "icon": "🍔",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Shrimp and subs",
+        "t": "Red Lobster is bringing back Endless Shrimp (with restrictions), and Jersey Mike's filed confidentially for an IPO."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "visage",
+        "t": "Face."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-22",
+    "label": "Issue of Apr 22",
+    "weekday": "Wed",
+    "top": "What's next for Apple under John Ternus",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Earth Day."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Meet the new Apple boss",
+        "t": "Ternus, a mechanical engineer at Apple since 2001, helped build AirPods, moved Macs to Apple chips, and pushed the hit MacBook Neo. Next up: a more chatbot-like Siri, wearables, smart home gear, and a folding iPhone."
+       },
+       {
+        "h": "7-minute EV charging",
+        "t": "CATL says its new battery charges from 10% to 98% in under seven minutes."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Florida probes OpenAI",
+        "t": "The state opened a criminal investigation into whether ChatGPT helped plan last year's FSU shooting. OpenAI says it isn't responsible."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Warsh grilled",
+        "t": "The Fed chair nominee promised independence at a heated hearing; Sen. Thom Tillis kept vowing to block him until the Powell probe ends."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Ceasefire extended",
+        "t": "Talks in Pakistan were scrapped, and Trump extended the Iran ceasefire indefinitely."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Chinese EVs tempt Americans",
+        "t": "A third of US new-car buyers would consider a Chinese car, up from 18% in 2021."
+       }
+      ]
+     },
+     {
+      "icon": "🛍️",
+      "name": "Retail",
+      "bullets": [
+       {
+        "h": "Condoms cost more, thanks to the war",
+        "t": "Karex, which makes 1 in 5 condoms worldwide, plans 20% to 30% price hikes as oil-based materials and shipping costs jump."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Joe Buck, quiz host",
+        "t": "He's nearing a deal to host ESPN Jeopardy!"
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "overtures",
+        "t": "Initiatives or gestures toward agreement or action."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-23",
+    "label": "Issue of Apr 23",
+    "weekday": "Thu",
+    "top": "Meta tracks employee keystrokes to train AI",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "A universal bless you to allergy sufferers. May thy Claritin be ever plentiful."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "No opt out at Meta",
+        "t": "Meta is installing mandatory keystroke tracking on US employees' computers to teach its AI agents things like dropdowns and shortcuts. When asked how to opt out, the CTO replied: \"There is no option to opt out.\" Meta also plans to cut 10% of staff."
+       },
+       {
+        "h": "Lawyers caught by AI",
+        "t": "Sullivan & Cromwell apologized to a judge for a filing with AI hallucinations."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Tesla spends big",
+        "t": "Beat Q1 estimates but plans $25 billion in spending this year on Cybercab, Optimus and AI; Musk says robotaxi revenue won't be material this year."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Weed rescheduling nears",
+        "t": "The administration moved toward shifting marijuana from Schedule I to Schedule III. Not legalization, but it eases research and taxes for the industry."
+       },
+       {
+        "h": "Hormuz flares",
+        "t": "Iran seized two cargo ships a day after the ceasefire extension."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Coyote vs. Acme is coming",
+        "t": "The once-shelved $70 million movie hits theaters Aug. 28, and its trailer roasts Warner Bros. as Acme."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Scholarship hunting on TikTok",
+        "t": "22% of Gen Z students search TikTok for scholarships weekly, more than learn from guidance counselors (19%). A third saw misleading info."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "barrage",
+        "t": "A vigorous or rapid outpouring of many things at once."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-24",
+    "label": "Issue of Apr 24",
+    "weekday": "Fri",
+    "top": "The AI phrase taking over corporate speak",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Happy Arbor Day, born in Nebraska in 1872."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Spot the AI phrase",
+        "t": "The \"it's not X, it's Y\" structure, a classic AI tell, showed up in 208 big-company documents last year, up from 49 in 2023. Not proof of AI, but it's everywhere."
+       },
+       {
+        "h": "GPT-5.5 arrives",
+        "t": "OpenAI's new model is pitched for coding and research."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Big Tech trims",
+        "t": "Microsoft offered its first ever buyouts to about 7% of US staff; Meta confirmed about 8,000 layoffs."
+       }
+      ]
+     },
+     {
+      "icon": "🏀",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Insider betting charges",
+        "t": "A soldier involved in the Maduro raid allegedly used classified info to win $400,000 on Polymarket. In Paris, police probe whether someone used a hair dryer on a weather sensor to win temperature bets."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Warner shareholders approve Paramount",
+        "t": "The $111 billion deal still needs antitrust approval. Also: Taylor Swift and Bad Bunny are Spotify's most-streamed artists ever."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Mines and ceasefires",
+        "t": "Trump ordered the military to destroy any boat laying mines in Hormuz; Israel and Lebanon extended their ceasefire three weeks."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Pregame economics",
+        "t": "With cocktails averaging $13.61, almost a third of drinkers pre-drink to save money, and mini bottle sales are booming."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "anomalous",
+        "t": "Deviating from what is usual, normal, or expected."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-25",
+    "label": "Issue of Apr 25",
+    "weekday": "Sat",
+    "top": "Musk v. Altman heads to court",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Enjoy the light calendar while it lasts. Wedding invites are coming."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "The billionaire trial",
+        "t": "Jury selection starts Monday. Musk says OpenAI broke its nonprofit promise and wants $100+ billion, Altman and Brockman out, and the for-profit shift reversed. OpenAI calls it jealousy. Nadella and others will testify."
+       },
+       {
+        "h": "Google joins the Anthropic party",
+        "t": "Google plans to invest up to $40 billion in Anthropic."
+       },
+       {
+        "h": "Maine data center ban vetoed",
+        "t": "Gov. Janet Mills vetoed what would have been the first statewide moratorium."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Powell probe dropped",
+        "t": "The DOJ ended its criminal investigation, clearing the path for Kevin Warsh's confirmation."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Tin Can phones for kids",
+        "t": "A $100 screenless landline-style phone has a months-long waitlist and hundreds of thousands sold. Schools are ordering in bulk."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Robot ping pong",
+        "t": "A Sony AI table tennis bot is beating some elite players."
+       },
+       {
+        "h": "Speedy salmon",
+        "t": "Salmon exposed to a cocaine byproduct swam nearly twice as far."
+       },
+       {
+        "h": "Smoke-free generation",
+        "t": "The UK banned anyone born after 2008 from ever buying cigarettes."
+       },
+       {
+        "h": "Scooby-Doo",
+        "t": "Netflix started a live-action teen origins series."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "compatriots",
+        "t": "People from the same country, or companions."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-009",
   "title": "Drop #9: Apr 12 to 18, 2026",
   "start": "2026-04-12",
