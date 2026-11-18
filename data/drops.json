@@ -1,5 +1,552 @@
 [
  {
+  "id": "drop-011",
+  "title": "Drop #11: Apr 26 to May 2, 2026",
+  "start": "2026-04-26",
+  "end": "2026-05-02",
+  "intro": "One week, boiled down. Two humans break two hours in a marathon, Musk and Altman go to trial, Big Tech spends like never before, Eli Lilly rides the GLP-1 wave, LIV loses its money, and reality TV gets real.",
+  "spotlight": {
+   "icon": "🏃",
+   "value": "1:59:30",
+   "label": "New marathon world record",
+   "detail": "And the runner-up broke two hours too, in his first ever marathon."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-011-podcast.mp3",
+   "podcast_seconds": 1558
+  },
+  "issues": [
+   {
+    "id": "2026-04-26",
+    "label": "Issue of Apr 26",
+    "weekday": "Sun",
+    "top": "Is reality TV washed?",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: the business of reality TV. Outside the top categories, so it gets the bite-size treatment."
+       }
+      ]
+     },
+     {
+      "icon": "📺",
+      "name": "Sunday Theme: Reality TV",
+      "bullets": [
+       {
+        "h": "The genre is shrinking",
+        "t": "New US unscripted shows fell 15% last year, a third below 2022. HGTV aired 35 shows in 2025 vs 78 in 2019, and reality orders dropped 31%."
+       },
+       {
+        "h": "It just moved",
+        "t": "Cable reaches about half of US homes (90% in 2010). YouTube is nearly 13% of US viewing, MrBeast has 430 million subscribers, and Twitch has 21 million streamers. Love Island USA still logged 18 billion streaming minutes."
+       },
+       {
+        "h": "Drama behind the scenes",
+        "t": "The Bachelorette season was shelved days before its premiere, and Love is Blind and old shows like America's Next Top Model and The Biggest Loser face fresh scrutiny."
+       },
+       {
+        "h": "Started on reality TV",
+        "t": "Cardi B, Beyonce (Star Search), Kelly Clarkson, Lady Gaga, Jon Hamm, Chris Hemsworth, Meghan Markle (Deal or No Deal), Glen Powell, Emma Stone, Harry Styles and Transportation Secretary Sean Duffy."
+       }
+      ]
+     },
+     {
+      "icon": "📊",
+      "name": "Charted Territory",
+      "bullets": [
+       {
+        "h": "Longest running",
+        "t": "Survivor just premiered season 50 after 26 years. Cops (1989) is the oldest on the list."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-27",
+    "label": "Issue of Apr 27",
+    "weekday": "Mon",
+    "top": "Two humans break two hours in a marathon",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Buffalo linebacker Red Murdock went 257th and last in the NFL Draft to Denver, earning the title Mr. Irrelevant."
+       }
+      ]
+     },
+     {
+      "icon": "🗞️",
+      "name": "Big News",
+      "bullets": [
+       {
+        "h": "Correspondents' Dinner shooting",
+        "t": "A gunman was stopped at the entrance; a Secret Service agent in a vest was hit and is OK. The suspect was later charged with attempted assassination."
+       }
+      ]
+     },
+     {
+      "icon": "🏃",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Sub-two, twice",
+        "t": "Kenya's Sabastian Sawe won London in 1:59:30, smashing the world record by over a minute. Ethiopia's Yomif Kejelcha finished 11 seconds later in his first ever marathon. Both wore Adidas; US running shoe sales are up 13% to $8.1 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Talent raid",
+        "t": "Anthropic and OpenAI are poaching execs from Salesforce, Snowflake, Datadog and Palantir."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Warsh unblocked",
+        "t": "Sen. Thom Tillis will now back Kevin Warsh for Fed chair."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Talks off",
+        "t": "Trump called off sending diplomats to round two of Iran talks in Pakistan."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Michael breaks records",
+        "t": "The Michael Jackson biopic had the biggest global opening for a biopic ever: $97 million domestic plus $120 million overseas. Audiences love it (97%), critics mostly don't."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "twofer",
+        "t": "Something that meets two criteria at once."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-28",
+    "label": "Issue of Apr 28",
+    "weekday": "Tue",
+    "top": "China blocks Meta's $2B Manus deal",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Meet Chonkers, a 2,000 pound cuddly seal flopping onto San Francisco's Pier 39 docks. New word: thigmotactic."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "China blocks Manus",
+        "t": "A Chinese regulator halted Meta's $2 billion purchase of AI agent startup Manus and reportedly barred two execs from leaving the country. Manus topped $100 million in annual revenue."
+       },
+       {
+        "h": "OpenAI and Microsoft redefine things",
+        "t": "Microsoft no longer has exclusive rights to sell OpenAI's models."
+       },
+       {
+        "h": "Musk v. Altman begins",
+        "t": "Jury selected; the liability phase should wrap by May 21."
+       }
+      ]
+     },
+     {
+      "icon": "⚖️",
+      "name": "Big News",
+      "bullets": [
+       {
+        "h": "Roundup at the Supreme Court",
+        "t": "Can Bayer be sued for no cancer warning when the EPA never called glyphosate a carcinogen? Thousands of cases ride on it; ruling by June."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "The King visits",
+        "t": "Charles and Camilla arrived for a four day US trip for the 250th, including an address to Congress."
+       },
+       {
+        "h": "Hormuz offer",
+        "t": "Iran offered to reopen the strait if the US ends its blockade and the war."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "$50 movie tickets",
+        "t": "Regal sold out $50 tickets for Dune: Part Three in 70mm IMAX. Premium screens were 17% of tickets last year (13% in 2021); AMC has 517 of them."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "cinephiles",
+        "t": "Movie lovers."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-29",
+    "label": "Issue of Apr 29",
+    "weekday": "Wed",
+    "top": "UAE quits OPEC; OpenAI misses targets",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "The Mets started 9 and 19, their worst in 40+ years. Bright side: tickets cost less than a Crunchwrap Supreme."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "UAE leaves OPEC",
+        "t": "OPEC's third biggest producer walks out, aiming to go from 3.6 to 5 million barrels a day by 2027. Expect more volatile prices long term."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "OpenAI misses its numbers",
+        "t": "The WSJ says it missed user and revenue targets, including a billion weekly ChatGPT users by end of 2025. OpenAI called it clickbait; Oracle and CoreWeave dipped."
+       },
+       {
+        "h": "Musk takes the stand",
+        "t": "\"It's not OK to steal a charity,\" he told the jury."
+       },
+       {
+        "h": "Taylor Swift vs deepfakes",
+        "t": "She filed trademarks on two clips of her voice and a stage photo, a new legal tool against AI copies."
+       }
+      ]
+     },
+     {
+      "icon": "🔢",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Prediction markets mostly lose",
+        "t": "100,000+ Polymarket accounts lost $1,000 or more since 2025, twice as many as won that much. Traders lost $131 million total, and the big winners look like bots."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "futile",
+        "t": "Having no effect or achieving nothing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-04-30",
+    "label": "Issue of Apr 30",
+    "weekday": "Thu",
+    "top": "Big Tech earnings, bigger AI spending",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Grimace gets a purple themed menu in Germany, purple BBQ burger with violet buns included."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Hyperscalers beat",
+        "t": "Alphabet profit jumped 81% and Google Cloud hit $20 billion. Amazon cloud grew 28%. Microsoft sees $190 billion in capex and 20 million paid Copilot users. Zuckerberg admitted he lacks a very precise spending plan; Meta fell about 6% after hours."
+       },
+       {
+        "h": "Uber books hotels",
+        "t": "A new tab books Expedia stays, with Uber One discounts and Vrbo coming later."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Powell stays on",
+        "t": "His last press conference as chair; he'll remain a governor, the first ex-chair to do so since 1948. Rates held at 3.5% to 3.75% with four dissents, most since 1992."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "War tab and maps",
+        "t": "The Pentagon says the Iran war has cost $25 billion. The Supreme Court limited using race in drawing election maps, 6 to 3."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Marriage and cancer",
+        "t": "A study of 4 million cases found cancer rates about 68% higher for never married men and 83% higher for women, likely from support, money and habits."
+       }
+      ]
+     },
+     {
+      "icon": "⛳",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "LIV loses its backer",
+        "t": "Saudi funding is ending, per the WSJ."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "superstar",
+        "t": "One that is very prominent or a prime attraction."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-01",
+    "label": "Issue of May 1",
+    "weekday": "Fri",
+    "top": "Eli Lilly rides GLP-1s; LIV on life support",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "ChatGPT got so nerdy it kept mentioning goblins, so OpenAI trained it to never talk about goblins unless relevant."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Lilly's GLP-1 boom",
+        "t": "Q1 revenue $19.8 billion, up 56%. Mounjaro up 125% to $8.66 billion, Zepbound up 80%. Lilly holds 60% of the US obesity and diabetes drug market, and 1,000 people a day start its new Foundayo pill. The FDA may block compounders from bulk semaglutide and tirzepatide, and Hershey credits gum sales to Ozempic breath."
+       }
+      ]
+     },
+     {
+      "icon": "⛳",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "LIV may be a lost ball",
+        "t": "Saudi Arabia's PIF, LIV's only backer, poured in $5+ billion and about $100 million a month this year. It stops funding after August, and defectors face a tough road back to the PGA Tour."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple beats",
+        "t": "Services hit a record $30.98 billion and iPhone sales rose 2% to about $57 billion."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Netflix Clips",
+        "t": "A vertical short video feed of clips from its own shows and movies, with podcasts coming."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "GDP up, inflation too",
+        "t": "Q1 GDP grew 2%, and inflation rose to 3.2%. The House voted to end the DHS shutdown."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "acquiesced",
+        "t": "Accepted or agreed to reluctantly."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-02",
+    "label": "Issue of May 2",
+    "weekday": "Sat",
+    "top": "Berkshire's first meeting without Buffett",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Kentucky Derby day. A 15 to 1 longshot named Emerging Market lets you sound like an investor instead of a gambler."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Greg Abel's big debut",
+        "t": "First Berkshire meeting in 60 years not hosted by Buffett (95, still chair). Shares trail the S&P by 30+ points since the handoff news, with a $373 billion cash pile to explain."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Pentagon picks its AI",
+        "t": "Deals with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI and Reflection for classified work. Anthropic is left out as a supply chain risk."
+       }
+      ]
+     },
+     {
+      "icon": "🧬",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Bringing back the bluebuck",
+        "t": "Colossal is working to revive an African antelope gone 200 years, really a gene edited hybrid. It could help 29 endangered antelope species."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Tariffs and troops",
+        "t": "Trump threatened 25% tariffs on EU cars, rejected a new Iran offer, and the US will pull about 5,000 troops from Germany."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Sinking city",
+        "t": "Mexico City sinks almost 10 inches a year."
+       },
+       {
+        "h": "Bus fleet",
+        "t": "Scotland fans in Rhode Island booked 20 school buses for World Cup trips to Boston."
+       },
+       {
+        "h": "Half a shoe",
+        "t": "Chanel debuted a sandal that covers only the heel."
+       },
+       {
+        "h": "Save Nipper",
+        "t": "Albany's 28 foot terrier statue needs a new home as its warehouse crumbles."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "queries",
+        "t": "Questions."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-010",
   "title": "Drop #10: Apr 19 to 25, 2026",
   "start": "2026-04-19",
