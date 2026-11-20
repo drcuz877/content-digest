@@ -1,5 +1,526 @@
 [
  {
+  "id": "drop-012",
+  "title": "Drop #12: May 3 to 9, 2026",
+  "start": "2026-05-03",
+  "end": "2026-05-09",
+  "intro": "One week, boiled down. Coinbase hands work to AI agents, Musk's trial leaks texts, Google drops a screenless Fitbit, Canvas gets hacked at finals, a woman trains a Derby winner, and Ted Turner signs off.",
+  "spotlight": {
+   "icon": "⌚",
+   "value": "88%",
+   "label": "Jump in US fitness tracker purchases",
+   "detail": "From 2024 to 2025. Smart rings rose 195%."
+  },
+  "note": "Seven issues in this drop, plus a full podcast episode with Andrew and Ryan.",
+  "audio": {
+   "podcast": "audio/drop-012-podcast.mp3",
+   "podcast_seconds": 1575
+  },
+  "issues": [
+   {
+    "id": "2026-05-03",
+    "label": "Issue of May 3",
+    "weekday": "Sun",
+    "top": "The state of mental health in 2026",
+    "sections": [
+     {
+      "icon": "📝",
+      "name": "Editor's Note",
+      "bullets": [
+       {
+        "h": "Sunday theme issue: mental health. Health, but not the exercise or diet kind, so it gets the shorter treatment."
+       }
+      ]
+     },
+     {
+      "icon": "🧠",
+      "name": "Sunday Theme: Mental Health",
+      "bullets": [
+       {
+        "h": "Social media's Big Tobacco moment",
+        "t": "Teens scroll 5+ hours a day. 48% of teens say social media hurts them (32% in 2022). Juries hit Meta and Alphabet for $6 million and Meta for $375 million. Phones are banned in schools in 27 states."
+       },
+       {
+        "h": "AI on the couch",
+        "t": "Therapists use AI mostly for paperwork. About 1 in 6 adults has used AI for mental health advice, and at least a dozen lawsuits target OpenAI. Reminder: therapy is not a legally protected term."
+       },
+       {
+        "h": "Beta blockers go mainstream",
+        "t": "Celebs swear by propranolol before big events; prescriptions in England are up nearly 40% in a decade. It calms the body, not the thoughts, and can leave you light headed during exercise."
+       },
+       {
+        "h": "Psychedelics and EMDR",
+        "t": "The FDA will allow a first US psychedelic trial for alcohol use disorder. EMDR eye movement therapy has fans and skeptics."
+       }
+      ]
+     },
+     {
+      "icon": "⌚",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Is your stress score real?",
+        "t": "In a Garmin study, a quarter of users were told the opposite of how they felt, and scores did not rise when people felt stressed. Constant alerts can make anxious people worse."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-04",
+    "label": "Issue of May 4",
+    "weekday": "Mon",
+    "top": "Record oil exports, rising gas prices",
+    "sections": [
+     {
+      "icon": "🐎",
+      "name": "Brendan's Got Good News",
+      "bullets": [
+       {
+        "h": "History at the Derby",
+        "t": "Cherie DeVaux became the first woman to train a Kentucky Derby winner as long shot Golden Tempo went last to first. Brothers José and Irad Ortiz Jr. finished one and two. Also: AI may spot pancreatic cancer sooner."
+       }
+      ]
+     },
+     {
+      "icon": "🛢️",
+      "name": "Big News",
+      "bullets": [
+       {
+        "h": "Exporting more, paying more",
+        "t": "The US shipped a record 5.2 million barrels of crude a day in April and passed Saudi Arabia as top exporter, but US refineries want heavy crude, so gas prices still climb. Brent is up 89% this year."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Abel's first meeting",
+        "t": "Berkshire's new CEO won over a smaller crowd and won't do AI for the sake of AI. Buffett called markets a church with a casino attached."
+       }
+      ]
+     },
+     {
+      "icon": "💻",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Goodbye, Jeeves",
+        "t": "Ask.com shut down on May 1. Its sign off: Jeeves' spirit endures."
+       }
+      ]
+     },
+     {
+      "icon": "🎬",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Prada beats Michael",
+        "t": "The Devil Wears Prada 2 opened to $77 million. SAG-AFTRA reached a tentative studio deal."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "ephemeral",
+        "t": "Devoted to that which is of temporary interest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-05",
+    "label": "Issue of May 5",
+    "weekday": "Tue",
+    "top": "GameStop bids $56B for eBay",
+    "sections": [
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "GameStop wants eBay",
+        "t": "A $56 billion half cash, half stock bid from a company worth about $12 billion with $9 billion in cash. On CNBC, the CEO kept repeating half cash, half stock. Analysts doubt it happens."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Musk tried to settle",
+        "t": "OpenAI says Musk texted Greg Brockman two days before trial: you and Sam will be the most hated men in America. Brockman says his stake is worth $30 billion."
+       },
+       {
+        "h": "Wall Street meets AI",
+        "t": "Anthropic, Goldman Sachs and Blackstone formed a $1.5 billion firm to push AI into private equity owned companies. Palantir revenue grew 85%."
+       }
+      ]
+     },
+     {
+      "icon": "📊",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Best metros for new grads",
+        "t": "ADP ranks Birmingham, AL first (wages up 16%), then Tampa and San Jose. Raleigh slipped from first to fourth. Young grad unemployment hit 5.6%."
+       }
+      ]
+     },
+     {
+      "icon": "💼",
+      "name": "Matty's Work-Life Balance",
+      "bullets": [
+       {
+        "h": "Fake support numbers",
+        "t": "Scammers pose as airline help lines; one traveler lost $12,132. Only call numbers from the airline's site, email or card."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Shaky ceasefire",
+        "t": "The US sank six small Iranian boats while escorting ships through Hormuz, and Iran hit the UAE."
+       }
+      ]
+     },
+     {
+      "icon": "👗",
+      "name": "Media",
+      "bullets": [
+       {
+        "h": "Met Gala backlash",
+        "t": "Bezos sponsorship sparked protests; Zendaya and Bella Hadid skipped it."
+       }
+      ]
+     },
+     {
+      "icon": "⚾",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "A voice goes quiet",
+        "t": "Yankees announcer John Sterling died at 87 after 36 years."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "stratospheric",
+        "t": "Exceptionally high."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-06",
+    "label": "Issue of May 6",
+    "weekday": "Wed",
+    "top": "Coinbase swaps staff for AI agents",
+    "sections": [
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Coinbase cuts 14%",
+        "t": "About 700 jobs. Workers will manage fleets of AI agents, with one person teams doing engineering, design and product work. Skeptics, Sam Altman included, warn of AI washing layoffs."
+       },
+       {
+        "h": "A robot pet that purrs",
+        "t": "The Roomba creator's new Familiar is a furry, mute AI companion for loneliness and elder care, due next year at about the cost of owning a pet."
+       },
+       {
+        "h": "AI quick hits",
+        "t": "Publishers sued Meta over Llama training. Google, Microsoft and xAI will give the government early model access for security tests."
+       }
+      ]
+     },
+     {
+      "icon": "🍺",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Beer is back",
+        "t": "Anheuser-Busch volumes grew for the first time in three years, led by Brazil and Mexico; non alcoholic sales jumped 27%. Michelob Ultra is now the top US beer."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Pauses and petitions",
+        "t": "Trump paused the Hormuz escort mission for talks. Alberta separatists filed 300,000+ signatures to force a vote on leaving Canada."
+       }
+      ]
+     },
+     {
+      "icon": "💰",
+      "name": "Finance",
+      "bullets": [
+       {
+        "h": "Twice a year",
+        "t": "The SEC proposed semiannual reporting instead of quarterly."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "proponents",
+        "t": "People who support or argue in favor of something."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-07",
+    "label": "Issue of May 7",
+    "weekday": "Thu",
+    "top": "Ted Turner dies at 87",
+    "sections": [
+     {
+      "icon": "📺",
+      "name": "Big News",
+      "bullets": [
+       {
+        "h": "Captain Outrageous",
+        "t": "CNN founder Ted Turner invented the 24 hour news cycle, built TCM and Cartoon Network, won with the Braves, owned 2 million acres and gave $1 billion to the UN."
+       }
+      ]
+     },
+     {
+      "icon": "📱",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Apple pays for missing AI",
+        "t": "A $250 million settlement over promised Siri AI features. iPhone 15 Pro and iPhone 16 buyers may get $25 to $95 per phone."
+       },
+       {
+        "h": "Claude gets a SpaceX data center",
+        "t": "Anthropic signed a compute deal with SpaceX. Nvidia took $500 million in fiber from Corning."
+       }
+      ]
+     },
+     {
+      "icon": "🌐",
+      "name": "Molly Explains the Internet",
+      "bullets": [
+       {
+        "h": "Scientology speed runs",
+        "t": "Teens sprint as deep into Scientology buildings as they can before being thrown out. The first TikTok hit 43 million views; two teens were arrested in Australia."
+       }
+      ]
+     },
+     {
+      "icon": "🎤",
+      "name": "Entertainment",
+      "bullets": [
+       {
+        "h": "Blue dot fever",
+        "t": "Tours are canceling over empty seats. Average concert tickets cost $144, up from $82 in 2020."
+       }
+      ]
+     },
+     {
+      "icon": "💊",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "GLP-1 race",
+        "t": "Novo Nordisk posted strong Wegovy pill sales in its fight with Eli Lilly."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "rectifying",
+        "t": "Correcting."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-08",
+    "label": "Issue of May 8",
+    "weekday": "Fri",
+    "top": "Hantavirus on a cruise ship; a screenless Fitbit",
+    "sections": [
+     {
+      "icon": "⌚",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Fitbit Air",
+        "t": "Google's first screenless Fitbit costs $100 and takes on Whoop, with an optional $100 a year Gemini health coach. Tracker purchases jumped 88% and smart rings 195% last year."
+       }
+      ]
+     },
+     {
+      "icon": "⚽",
+      "name": "Dave's Sports Desk",
+      "bullets": [
+       {
+        "h": "Empty World Cup rooms",
+        "t": "80% to 90% of hoteliers in five host cities trail a normal summer; 7 in 10 blame visa and geopolitical worries. Only Boston has over half its Airbnbs booked."
+       }
+      ]
+     },
+     {
+      "icon": "🏈",
+      "name": "Sports",
+      "bullets": [
+       {
+        "h": "Betting shakeup",
+        "t": "FanDuel ousted its CEO as prediction markets squeeze it, while Kalshi hit a $22 billion valuation."
+       }
+      ]
+     },
+     {
+      "icon": "🦠",
+      "name": "Health",
+      "bullets": [
+       {
+        "h": "Hantavirus outbreak",
+        "t": "Three dead on the cruise ship Hondius. The rare Andes strain can spread person to person, but experts call pandemic risk low."
+       }
+      ]
+     },
+     {
+      "icon": "🤖",
+      "name": "AI",
+      "bullets": [
+       {
+        "h": "Altman's ouster texts",
+        "t": "Jurors saw 2023 texts: Mira Murati told Altman the board wanted him gone."
+       }
+      ]
+     },
+     {
+      "icon": "🍅",
+      "name": "Food & Bev",
+      "bullets": [
+       {
+        "h": "Tomato fraud",
+        "t": "A lawsuit says Cento misled buyers about San Marzano certification. Cento calls it meritless."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "Tariff ruled illegal",
+        "t": "A trade court struck down Trump's 10% global tariff."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "deposed",
+        "t": "Removed from a high-ranking position."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2026-05-09",
+    "label": "Issue of May 9",
+    "weekday": "Sat",
+    "top": "Good jobs, bad vibes",
+    "sections": [
+     {
+      "icon": "📊",
+      "name": "Stats",
+      "bullets": [
+       {
+        "h": "Jobs beat, mood sinks",
+        "t": "115,000 jobs added in April, double forecasts, with unemployment at 4.3%. Tech type jobs are down 11% since ChatGPT launched. Wage growth of 3.6% trails expected inflation, and sentiment hit a record low."
+       }
+      ]
+     },
+     {
+      "icon": "🔐",
+      "name": "Tech",
+      "bullets": [
+       {
+        "h": "Canvas hacked at finals",
+        "t": "Instructure took Canvas offline for hours. ShinyHunters claims 8,800 schools and 275 million people's data and set a May 12 deadline. Penn State canceled some exams."
+       }
+      ]
+     },
+     {
+      "icon": "🌍",
+      "name": "World",
+      "bullets": [
+       {
+        "h": "UFOs and ceasefires",
+        "t": "The Pentagon began posting declassified UFO files. Russia and Ukraine agreed to a three day ceasefire, per Trump."
+       }
+      ]
+     },
+     {
+      "icon": "👀",
+      "name": "ICYMI",
+      "bullets": [
+       {
+        "h": "Apple truck heist",
+        "t": "Three arrests after $1.2 million in Apple gear was hijacked."
+       },
+       {
+        "h": "Skip is back",
+        "t": "Skip Bayless debated Stephen A. Smith again on First Take."
+       },
+       {
+        "h": "Dream job",
+        "t": "Fox Sports and Indeed will pay $50,000 to watch all 104 World Cup matches."
+       }
+      ]
+     },
+     {
+      "icon": "📖",
+      "name": "Word of the Day",
+      "bullets": [
+       {
+        "h": "hotelier",
+        "t": "A proprietor or manager of a hotel."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "drop-011",
   "title": "Drop #11: Apr 26 to May 2, 2026",
   "start": "2026-04-26",
